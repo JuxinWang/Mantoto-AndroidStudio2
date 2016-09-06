@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/app_info_all_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <include android:id="@+id/common_back" layout="@layout/include_main_topbar" />
+
+        <ListView
+            android:id="@+id/myorder_ListViewId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white" >
+        </ListView>
+    <include
+        android:id="@+id/view_network_error"
+        layout="@layout/network_error"
+        android:visibility="gone" />
+     <TextView
+        android:id="@+id/empty_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="暂无优惠券"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:visibility="gone" />
+
+</LinearLayout>

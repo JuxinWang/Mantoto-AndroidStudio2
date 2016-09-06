@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/app_info_all_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <include android:id="@+id/common_back" layout="@layout/include_main_topbar" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/list_line"
+        />
+    <LinearLayout
+        android:id="@+id/titleLayoutId"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:gravity="top"
+        android:orientation="horizontal" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="17dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            >
+
+        <Button
+            android:id="@+id/btn_UncompletedId"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:background="@drawable/switch_button_left_default"
+            android:text="未完成"
+            android:textColor="@color/base_color_text_black"
+            android:textSize="17sp" />
+            <LinearLayout
+                android:id="@+id/order_line1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/primary"
+                android:orientation="horizontal"
+                android:visibility="gone"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            >
+
+        <Button
+            android:id="@+id/btn_CompletedId"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:background="@drawable/switch_button_right_default"
+            android:text="已完成"
+            android:textColor="@color/base_color_text_black"
+            android:textSize="17sp" />
+            <LinearLayout
+                android:id="@+id/order_line2"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/primary"
+                android:visibility="gone"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:layout_marginRight="17dp"
+            android:orientation="vertical"
+            >
+            <Button
+                android:id="@+id/btn_all_order"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:background="@drawable/switch_button_right_default"
+                android:text="全部订单"
+                android:textColor="@color/base_color_text_black"
+                android:textSize="17sp" />
+            <LinearLayout
+                android:id="@+id/order_line3"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/primary"
+                android:visibility="gone"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        >
+
+    <ListView
+        android:id="@+id/order_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:cacheColorHint="#00000000"
+        android:divider="#00000000"
+        android:dividerHeight="18dp"
+        android:fadingEdge="none"
+         />
+    </LinearLayout>
+    <include
+        android:id="@+id/view_network_error"
+        layout="@layout/network_error"
+        android:visibility="gone" />
+    <TextView
+        android:id="@+id/empty_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="暂无未完成订单"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:visibility="gone" />
+
+</LinearLayout>

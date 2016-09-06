@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="lib" path="lib/mp.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/MpSDK.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/zxing.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/Android_Location_V1.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/AMap_2DMap_V2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/AMap_Services_V2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-httpclient-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/locSDK_5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/testinagent.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/umeng-update-v2.6.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/com.umeng.message.lib_v2.5.0.jar"/>
+	<classpathentry kind="lib" path="libs/libammsdk.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/alipaySdk-20160120.jar"/>
+	<classpathentry kind="lib" path="libs/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

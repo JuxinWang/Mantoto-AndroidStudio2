@@ -1,0 +1,352 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+	
+	    <include
+	        android:id="@+id/common_back"
+	        layout="@layout/include_main_topbar" />
+	    
+	    <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="10dp"
+	            android:background="#f2f2f2"
+	            android:orientation="vertical"/>
+	    
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical" >
+	
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:background="@color/white"
+	            android:orientation="vertical" >
+	
+		            <LinearLayout
+		                android:id="@+id/wifi_LinearLayout"
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content"
+		              >
+		
+		                <TextView
+		                    android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginLeft="20dp"
+		                    android:layout_marginTop="10dp"
+							android:layout_marginBottom="5dp"
+		                    android:text="WIFI状态"
+		                    android:textColor="@color/base_color_text_black"
+		                    android:textSize="18sp" />
+		            </LinearLayout>
+		            <LinearLayout
+				            android:layout_width="match_parent"
+				            android:layout_height="1dp"
+				            android:background="#d6d6d6"
+							android:layout_marginLeft="20dp"
+				            android:orientation="vertical" />
+				
+	
+		            <LinearLayout
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content"
+		                android:layout_marginTop="5dp"
+		                android:orientation="horizontal" >
+		
+		                <TextView
+		                    android:id="@+id/wifi_setting"
+		                    android:layout_width="0dp"
+							android:layout_weight="1"
+		                    android:layout_height="wrap_content"
+		                    android:text="剩余时长:"
+							android:textSize="14sp"
+							android:layout_marginLeft="20dp"
+							android:textColor="@color/gray" />
+		
+		                <TextView
+		                    android:id="@+id/rechargeWifiTime"
+		                    android:layout_width="0dp"
+							android:layout_weight="3"
+		                    android:layout_height="wrap_content"
+		                    android:text="30分钟"
+							android:textSize="14sp"
+		                    android:textColor="@color/gray" />
+		            </LinearLayout>
+	
+		            <LinearLayout
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content"
+		                android:layout_marginBottom="5dp"
+		                android:layout_marginTop="5dp"
+		                android:orientation="horizontal" >
+		
+		                <TextView
+		                    android:layout_width="0dp"
+							android:layout_weight="1"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginLeft="20dp"
+		                    android:text="账户余额:"
+							android:textSize="14sp"
+		                    android:textColor="@color/gray" />
+		
+		                <TextView
+		                    android:id="@+id/rechargeMoneyTextView"
+		                    android:layout_width="0dp"
+							android:layout_weight="1.5"
+		                    android:layout_height="wrap_content"
+							android:text="0.5元"
+							android:textSize="14sp"
+		                    android:textColor="@color/gray" />
+		
+		                <TextView
+		                    android:layout_width="0dp"
+							android:layout_weight="1.5"
+		                    android:layout_height="wrap_content"
+		                    android:text="(0.6元/小时)"
+							android:textSize="14sp"
+		                    android:textColor="@color/gray" />
+		            </LinearLayout>
+	        </LinearLayout>
+	
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="1dp"
+	            android:background="#d6d6d6" >
+	        </LinearLayout>
+	
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:background="#f2f2f2"
+	            android:orientation="vertical" >
+	
+	            <TextView
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_marginBottom="5dp"
+	                android:layout_marginLeft="20dp"
+	                android:layout_marginTop="10dp"
+	                android:text="账号"
+	                android:textColor="@color/base_color_text_black"
+	                android:textSize="16sp"
+	                 />
+	        </LinearLayout>
+	
+
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:background="@drawable/edittext_white"
+	            android:orientation="vertical"
+				android:layout_marginLeft="20dp"
+				android:layout_marginRight="20dp"
+				>
+	
+	            <TextView
+	                android:id="@+id/rechargeCountTextView"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_marginBottom="15dp"
+	                android:layout_marginLeft="15dp"
+	                android:layout_marginTop="15dp"
+	                android:text="13552662356"
+	                android:textColor="@color/primary"
+	                android:textSize="16sp" />
+	        </LinearLayout>
+	
+
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:background="@color/pay_background"
+	            android:orientation="vertical" >
+	
+	            <TextView
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_marginBottom="5dp"
+	                android:layout_marginLeft="20dp"
+	                android:layout_marginTop="10dp"
+	                android:text="快捷支付"
+	                android:textColor="@color/base_color_text_black"
+	                android:textSize="16sp"
+	                />
+	        </LinearLayout>
+	
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center"
+	            android:layout_marginLeft="20dp"
+	            android:layout_marginRight="20dp"
+	            android:background="@drawable/recharge_select_bg"
+	            android:orientation="horizontal" >
+	
+	            <Button
+	                android:id="@+id/rechargeCouponPay"
+	                android:layout_width="0dp"
+	                android:layout_height="45dp"
+	                android:layout_weight="1"
+	                android:background="@drawable/recharge_coupon_white_bg"
+	                android:gravity="center"
+	                android:text="代金券支付"
+	                android:textColor="#ff7e00"
+	                android:textSize="17sp"
+	                android:textStyle="bold" />
+	
+	            <Button
+	                android:id="@+id/rechargeCashPay"
+	                android:layout_width="0dp"
+	                android:layout_height="45dp"
+	                android:layout_weight="1"
+	                android:background="@drawable/recharge_coupon_yellow_bg"
+	                android:gravity="center"
+	                android:text="现金支付"
+	                android:textColor="@color/white"
+	                android:textSize="17sp"
+	                android:textStyle="bold" />
+	        </LinearLayout>
+	
+	        <LinearLayout
+				android:layout_marginTop="20dp"
+	            android:layout_width="match_parent"
+	            android:layout_height="80dp"
+	            android:background="@color/white"
+	            android:orientation="horizontal"
+				android:gravity="center"
+				>
+	
+	            <Button
+	                android:id="@+id/rechargeTenYuanButton"
+	                android:layout_width="0dp"
+	                android:layout_height="50dp"
+	                android:layout_weight="1"
+					android:layout_marginLeft="20dp"
+	                android:background="@drawable/white_btn_normal"
+	                android:clickable="true"
+	                android:onClick="onClick"
+	                android:text="10元"
+	                android:textColor="@color/black"
+	                android:textSize="17sp"
+	                android:textStyle="bold" />
+	
+	            <Button
+	                android:id="@+id/rechargetwentyYuanButton"
+	                android:layout_width="0dp"
+	                android:layout_height="50dp"
+	                android:layout_weight="1"
+	                android:background="@drawable/white_btn_normal"
+	                android:clickable="true"
+	                android:onClick="onClick"
+					android:layout_marginLeft="20dp"
+					android:text="20元"
+	                android:textColor="@color/black"
+	                android:textSize="17sp"
+	                android:textStyle="bold" />
+	
+	            <Button
+	                android:id="@+id/rechargefiftyButton"
+	                android:layout_width="0dp"
+	                android:layout_height="50dp"
+	                android:layout_weight="1"
+	                android:background="@drawable/white_btn_normal"
+	                android:clickable="true"
+	                android:onClick="onClick"
+					android:layout_marginLeft="20dp"
+	                android:text="50元"
+	                android:textColor="@color/black"
+	                android:textSize="17sp"
+	                android:textStyle="bold" />
+	
+	            <Button
+	                android:id="@+id/rechargeotherYuanButton"
+	                android:layout_width="0dp"
+	                android:layout_height="50dp"
+	                android:layout_weight="1"
+	                android:background="@drawable/white_btn_normal"
+	                android:clickable="true"
+	                android:onClick="onClick"
+	                android:text="其它金额"
+					android:layout_marginLeft="20dp"
+					android:layout_marginRight="20dp"
+	                android:textColor="@color/black"
+	                android:textSize="11sp"
+	                android:textStyle="bold" />
+	        </LinearLayout>
+
+
+	        <LinearLayout
+	            android:id="@+id/rechargeMoneyLinearLayout"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:orientation="vertical"
+				android:layout_marginTop="10dp"
+
+	            >
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginLeft="20dp"
+					android:layout_marginBottom="3dp"
+					android:text="请输入金额"
+					android:textSize="16sp"
+					android:textColor="@color/base_color_text_black"
+					/>
+
+	            <EditText
+	                android:id="@+id/PhoneEditText"
+	                android:layout_width="match_parent"
+	                android:layout_height="40dp"
+					android:layout_marginTop="5dp"
+					android:hint="请您输入金额"
+					android:paddingLeft="20dp"
+					android:textColorHint="@color/gray"
+	  	            android:background="#ffffff"
+	                android:gravity="center_vertical"
+	                android:inputType="number"
+	                android:textColor="@color/primary"
+					android:textCursorDrawable="@null"
+	                android:textSize="@dimen/input_text_size" />
+	
+
+	        </LinearLayout>
+
+	    </LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1">
+
+		</LinearLayout>
+	    <LinearLayout
+	        android:id="@+id/rechargeConfirm"
+	        android:layout_width="match_parent"
+	        android:layout_height="60dp"
+	        android:clickable="true"
+	        android:onClick="onClick"
+			android:background="@color/white"
+			android:layout_gravity="bottom"
+	       >
+	
+	        <Button
+	            android:id="@+id/payButton"
+	            android:layout_width="match_parent"
+	            android:layout_height="45dp"
+	            android:background="@drawable/blue_button_login2"
+	            android:clickable="true"
+	            android:onClick="onClick"
+	            android:text="确定"
+	            android:textColor="@color/white"
+	            android:textSize="@dimen/button_text_size"
+				android:layout_marginLeft="20dp"
+				android:layout_marginRight="20dp"
+				android:layout_marginBottom="10dp"
+				android:layout_marginTop="10dp"
+				/>
+	    </LinearLayout>
+
+</LinearLayout>

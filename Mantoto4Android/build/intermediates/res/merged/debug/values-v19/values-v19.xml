@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@style/BaseAppTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+
+    </style>
+    <style name="BaseAppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimaryDark">@color/primary</item>
+       <!--  <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">#FF7E00</item> -->
+    </style>
+</resources>

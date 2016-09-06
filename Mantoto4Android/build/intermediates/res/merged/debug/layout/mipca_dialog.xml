@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/create_repair_dialog_bg">
+      <TextView 
+			android:id="@+id/normal_dialog_title"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:textColor="#AAAAAA"
+			android:textSize="16dip"
+			android:text="签码"
+			android:layout_gravity="center"
+			android:gravity="center"
+			android:layout_weight="1"
+			android:layout_marginTop="15dip"
+			android:layout_marginBottom="15dip" />
+
+	<View
+	    android:layout_width="fill_parent"
+	    android:layout_height="1dip"
+	    android:background="#dbd7d4" />
+    
+    <TextView 
+        android:id="@+id/normal_dialog_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+		android:textColor="#000000"
+		android:textSize="16dip"
+		android:layout_weight="1"
+		android:layout_marginTop="20dip"
+		android:layout_marginBottom="20dip"
+		android:gravity="center"
+		android:layout_gravity="center"/>
+
+
+</LinearLayout>

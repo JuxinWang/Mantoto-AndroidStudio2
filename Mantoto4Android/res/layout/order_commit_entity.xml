@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <!-- 导航 -->
+
+    <include android:id="@+id/common_back" layout="@layout/include_main_topbar" />
+    <!--留白-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+    <!--线-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/list_line"
+        />
+    <!-- 商品名商品价格 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:background="@color/white"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/order_Commit_NameId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="17dp"
+                android:layout_gravity="center_vertical"
+                android:text="手切羊肉"
+                android:layout_weight="1"
+                android:textColor="@color/base_color_text_black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/order_Commit_PriceId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="40元"
+                android:layout_marginRight="17dp"
+                android:textColor="@color/base_color_text_black"
+                android:textSize="16sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@drawable/list_line"/>
+
+        <!-- 购买数量 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/order_Commit_CountId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:layout_marginLeft="17dp"
+                android:text="数量："
+                android:textColor="@color/base_color_text_black"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/order_Commit_MinusId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_gravity="center_vertical"
+                 />
+
+            <TextView
+                android:id="@+id/order_Commit_NumberId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="1"
+                android:textColor="@color/base_color_text_black"
+                android:layout_marginRight="10dp"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/order_Commit_AddId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="17dp"
+                android:layout_gravity="center_vertical"
+                />
+        </LinearLayout>
+    </LinearLayout>
+    <!-- 分隔线 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/list_line"
+        />
+
+    <!-- 总价 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        >
+
+        <TextView
+            android:id="@+id/order_Commit_TotalId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="17dp"
+            android:layout_weight="1"
+            android:text="总计 :"
+            android:textColor="@color/base_color_text_black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/order_Commit_TotalPriceId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="17dp"
+            android:text="40元"
+            android:textColor="@color/red"
+            android:textSize="16sp" />
+    </LinearLayout>
+    <!-- 分隔线 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dfdfdf" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+    <!-- 联系人 -->
+
+    <LinearLayout
+        android:id="@+id/order_Commit_LL_NameandPhone"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:visibility="gone"
+         >
+
+        <TextView
+            android:id="@+id/order_Commit_LinkmanId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="17dp"
+            android:layout_weight="1"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/order_Commit_PhoneNumberId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="17dp"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+    </LinearLayout>
+    <!-- 进入地址管理界面 -->
+    <LinearLayout
+        android:id="@+id/ll_Address_MangerId"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        >
+        <LinearLayout
+            android:id="@+id/add_receive_address"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <TextView
+                android:id="@+id/order_Commit_Select_LinkmanId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:layout_marginLeft="17dp"
+                android:text="添加收货地址"
+                android:textColor="@color/base_color_text_black"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/order_Commit_RightId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="17dp"
+                android:src="@drawable/arrowright_gray" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="10dp"/>
+    <!-- 地址 -->
+
+    <LinearLayout
+        android:id="@+id/order_Commit_LL_Address"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:visibility="gone"
+         >
+
+        <TextView
+            android:id="@+id/order_Commit_AddressId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <!-- 无地址栏时显示 -->
+
+    <!-- 分隔线 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/background_color" >
+    </LinearLayout>
+    <!-- 提交订单 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:gravity="center"
+        >
+
+        <Button
+            android:id="@+id/order_CommitId"
+            android:layout_width="326dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="17dp"
+            android:layout_marginRight="17dp"
+            android:background="@drawable/btn_bg"
+            android:onClick="commit"
+            android:text="提交订单"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <include
+        android:id="@+id/view_network_error"
+        layout="@layout/network_error"
+        android:visibility="gone" />
+
+</LinearLayout>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="169dp"
+    android:background="@drawable/main_pic"
+    android:orientation="vertical"
+   >
+ 
+    <!--   漫涂社区 -->
+  
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        >
+        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="漫涂社区"
+            android:textColor="#ffffff"
+            android:textSize="26sp"
+            />
+
+        <!-- 漫涂社区图标 <ImageView android:id="@+id/TianqiImageView"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_gravity="center"
+            android:src="@drawable/icon" /> -->
+    </LinearLayout>
+    
+   <!-- 温度 -->
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        >
+        <TextView  android:id="@+id/WenduTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="16°~23°"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+    </LinearLayout>
+    
+    <!-- 天气 -->  
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        >
+        
+        <ImageView 
+            android:id="@+id/TianqiImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+      
+    </LinearLayout>
+    <!--  底栏 -->
+    <LinearLayout
+        android:id="@+id/weather_ll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#35000000"
+        android:orientation="horizontal"
+        >
+      <!-- 	<LinearLayout
+       	    android:layout_height="match_parent"
+       	    android:layout_width="0dp"
+       	    android:layout_weight="0.2"
+         />-->
+       	
+       	<LinearLayout 
+       	    android:layout_height="match_parent"
+       	    android:layout_width="0dp"
+       	    android:layout_weight="3"
+       	    android:gravity="center"
+       	    
+       	     >
+		          <!--   标记 -->
+		       <ImageView 
+		            android:id="@+id/address_biaoji"
+		            android:layout_width="22dp"
+		            android:layout_height="22dp"
+		            android:background="@drawable/biaoji"
+		              />
+	          <!-- 地址 -->
+		        <TextView android:id="@+id/DiZhiTextView"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_marginLeft="3dp"
+		            android:text="北京"
+		            android:textColor="@color/white"
+		            android:textSize="14sp" />
+	     </LinearLayout>
+
+	     
+	     <LinearLayout 
+       	    android:layout_height="match_parent"
+       	    android:layout_width="0dp"
+       	    android:layout_weight="4"
+       	    android:gravity="center"
+         >   
+	        <ImageView 
+	            android:id="@+id/address_date"
+	            android:layout_width="20dp"
+	            android:layout_height="20dp"
+	            android:background="@drawable/main_time"
+	            />
+	       <!--  年月日 -->
+	            <TextView
+		            android:id="@+id/DateTextView"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_marginLeft="5dp"
+		            android:text="2012.23"
+		            android:textColor="@color/white"
+		            android:textSize="14sp" />
+		        <TextView
+		            android:id="@+id/Date_day_TextView"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="23"
+		            android:textColor="@color/white"
+		            android:textSize="14sp" />
+	       </LinearLayout>
+	       
+
+	      <LinearLayout 
+       	    android:layout_height="match_parent"
+       	    android:layout_width="0dp"
+       	    android:layout_weight="2"
+       	    android:gravity="center"
+           >
+		        <!-- 星期几 -->
+		        <TextView
+			        android:id="@+id/Date_weekday_TextView"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="星期日"
+		            android:textColor="@color/white"
+		            android:textSize="14sp"
+		             />
+		        
+		    </LinearLayout>
+		    
+
+		    <LinearLayout
+	       	    android:layout_height="match_parent"
+	       	    android:layout_width="0dp"
+	       	    android:layout_weight="4"
+	       	    android:gravity="center"
+	         >
+		        
+		        <ImageView 
+		            android:id="@+id/address_yezi"
+		            android:layout_width="22dp"
+		            android:layout_height="22dp"
+		            android:background="@drawable/main_top_yezi"
+		             />
+		        
+		         <TextView
+			        android:id="@+id/TianQiTextView"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="阴 "
+		        	android:layout_marginLeft="3dp"
+		            android:textColor="@color/white"
+		            android:textSize="14sp" /> 
+	        
+		        <!-- 路况 -->
+		        <ImageView android:id="@+id/LuKuangImage"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		      
+		            android:layout_toRightOf="@+id/TianQiTextView"
+		            android:src="@drawable/lukuang" 
+		          	android:visibility="gone"
+		            />
+		        </LinearLayout>
+		         <LinearLayout 
+		       	    android:layout_height="match_parent"
+		       	    android:layout_width="0dp"
+		       	    android:layout_weight="0.5"
+		         />
+		        
+         
+      </LinearLayout>
+    
+  
+    
+    
+    
+    
+</LinearLayout>

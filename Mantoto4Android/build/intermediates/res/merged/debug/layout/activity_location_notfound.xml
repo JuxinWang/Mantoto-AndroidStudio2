@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/common_back"
+        layout="@layout/include_main_topbar"/>
+    
+    <LinearLayout
+         android:id="@+id/ll_InputNeiborHoodName"
+         android:layout_width="match_parent"
+         android:layout_height="40dp"
+         android:focusable="true"
+         android:focusableInTouchMode="true"
+         android:layout_marginTop="20dp"
+         android:orientation="horizontal"
+            android:visibility="gone"
+          >
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"/>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="6"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            >
+            <EditText
+                android:id="@+id/et_InputNeiborhoodNameId"
+                android:layout_width="0dp"
+                android:layout_weight="4"
+                android:layout_height="match_parent"
+                android:hint="输入小区名称"
+                android:background="@drawable/bg_editext"
+                 android:paddingLeft="10dp"
+                android:imeOptions="actionSearch"
+                android:inputType="text"
+                android:layout_marginRight="30dp"
+                android:textSize="16sp" />
+            <Button
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginRight="10dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/icon_search"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"/>
+  </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f7f2ed"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:id="@+id/NotFound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text=" 未找到合适小区  请点击查询"
+            android:textColor="@color/bcblue"
+            android:textSize="20sp" />
+        
+    </LinearLayout>
+    
+    <Button
+            android:id="@+id/btn_Next"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:background="@drawable/blue_btn_normal"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:text="下一步"
+            android:layout_marginTop="20dp"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:textColor="@color/white"
+            android:textSize="17sp" />
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context="com.wuxianyingke.property.activities.PlotLocationActivity">
+
+    <include
+        android:id="@+id/common_back"
+        layout="@layout/include_main_topbar"/>
+    <!-- 自定义控件 -->
+    <com.wuxianyingke.property.widget.FilpperListvew
+        android:id="@+id/listview_location"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="#00000000"
+        android:dividerHeight="10dp"
+        />
+</LinearLayout>

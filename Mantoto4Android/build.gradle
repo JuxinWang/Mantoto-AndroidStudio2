@@ -1,0 +1,51 @@
+apply plugin: 'com.android.application'
+
+dependencies {
+    compile fileTree(include: '*.jar', dir: 'libs')
+    compile files('lib/zxing.jar')
+    compile files('lib/MpSDK.jar')
+    compile files('lib/mp.jar')
+    compile files('lib/Android_Location_V1.3.0.jar')
+    compile files('lib/AMap_Services_V2.3.1.jar')
+    compile files('lib/AMap_2DMap_V2.3.1.jar')
+    compile 'com.android.support:recyclerview-v7:24.2.0'
+    compile 'com.android.support:support-v4:24.2.0'
+    compile 'com.android.support:appcompat-v7:24.2.0'
+    compile project(':ViewPagerIndicator')
+}
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '23.0.1'
+
+    aaptOptions.cruncherEnabled = false
+
+    aaptOptions.useNewCruncher = false
+
+    useLibrary('org.apache.http.legacy')
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+
+        // Move the tests to tests/java, tests/res, etc...
+        instrumentTest.setRoot('tests')
+
+        // Move the build types to build-types/<type>
+        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+        // This moves them out of them default location under src/<type>/... which would
+        // conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+}

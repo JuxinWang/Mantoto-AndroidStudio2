@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/create_repair_dialog_bg"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="3dp"
+    android:layout_marginTop="15dp"
+    >
+    
+      <TextView
+        android:id="@+id/remind_messagesId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="游客身份无法使用WIFI，请先登录。"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:textSize="20sp"/>
+     
+    
+</LinearLayout>
+
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:background="#dfdfdf" >
+    </LinearLayout>
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+    <TextView
+        android:id="@+id/btn_yesId"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/bcblue"
+        android:paddingTop="5dp"
+        android:textSize="17sp"
+        android:text="登录"/>
+     <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#dfdfdf"
+        />
+    
+     <TextView
+        android:id="@+id/btn_noId"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:paddingTop="5dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/bcblue"
+        android:textSize="17sp"
+        android:text="取消"/>
+    
+</LinearLayout>
+
+</LinearLayout>

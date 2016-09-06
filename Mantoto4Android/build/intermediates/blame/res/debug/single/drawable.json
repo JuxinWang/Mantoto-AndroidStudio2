@@ -1,0 +1,1066 @@
+[
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\payright.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\payright.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shenghuofuwu.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shenghuofuwu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_map_poi.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_map_poi.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_sec_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_sec_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\text_search.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_editext.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\bg_editext.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_togglebar_button1.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_togglebar_button1.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_edittext_white.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_edittext_white.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_login_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_login_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_search_down.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_search_down.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_pl_right_down_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_pl_right_down_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_pl_left_up_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_pl_left_up_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_dianhua.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_dianhua.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\left_back.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\left_back.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\disable_btn_normal.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\disable_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_poi_search_normal.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_poi_search_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shenghuojiaofei.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shenghuojiaofei.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_break_wifi.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_break_wifi.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_walk.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_pl_right_up_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_pl_right_up_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_button_left_on.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\switch_button_left_on.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_pl_left_down_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_pl_left_down_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_add_address_button.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_add_address_button.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_weibo_login_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_weibo_login_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\white_btn_normal.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\white_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\prev.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\radio4_item_bg23.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\radio4_item_bg23.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_selected.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\text_search_selected.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_plot.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_plot.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_pressed.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_drag_down.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_nav_drag_down.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shenghuobianqian_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shenghuobianqian_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button_login.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\blue_button_login.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_jiaotong.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_jiaotong.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg_focused.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\white_btn_list.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\white_btn_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\create_repair_dialog_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\create_repair_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_bohao.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_bohao.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg_focused.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_youchangfuwu.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_youchangfuwu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit_on.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_transit_on.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\last\\ViewPagerIndicator\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_xiugaimima.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_xiugaimima.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\tongzhi_bg.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\tongzhi_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_btn_login.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\gray_btn_login.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\more_bg.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\more_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\zhifu.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\zhifu.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\recharge_select_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\recharge_select_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_gouwu.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_gouwu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_button_orderall_default.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\switch_button_orderall_default.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_bottom.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\item_bg_bottom.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_pl_center_up_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_pl_center_up_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_stroke_item2.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\bg_stroke_item2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\plotcontrol_btnbg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\plotcontrol_btnbg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_stroke_item.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\bg_stroke_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_regist_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_regist_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\message_bg_1.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\message_bg_1.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_button.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\radio_button.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_topbar_user.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_topbar_user.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_normal_disable.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_repair_type_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\blue_repair_type_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shenghuobianqian.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shenghuobianqian.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_lifepay.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_lifepay.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\item_style_checkbox.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\item_style_checkbox.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\radio4_item_bg2.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\radio4_item_bg2.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shezhi.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shezhi.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk_off.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_walk_off.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_item_center.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_item_center.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_daishoukuaidi.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_daishoukuaidi.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_medium.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\progress_medium.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\main_notification_dot.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\main_notification_dot.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_search_right_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_search_right_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_search_result.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_search_result.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk_focused.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_walk_focused.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_coupon_used.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_coupon_used.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_xinxi.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_xinxi.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\daishoukuaidi_normal.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\daishoukuaidi_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shouye_normal.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shouye_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_other_info_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_other_info_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_btn_normal.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\blue_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\item_pressed_top.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\item_pressed_top.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_spinner1.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_spinner1.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_item_bottom.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_item_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\process_all_press.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\process_all_press.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_logout.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_logout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_topbar_left.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_topbar_left.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_button_right_default.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\switch_button_right_default.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_togglebar_button5.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_togglebar_button5.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_canyin.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_canyin.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_normal.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shouye.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shouye.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_top.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\item_bg_top.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\item_pressed_center.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\item_pressed_center.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\ring_red_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\ring_red_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_coupon_unused.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_coupon_unused.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\main_white_frame.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\main_white_frame.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shouye_press.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shouye_press.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\item_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\item_pressed.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\item_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_yaoqingma_button.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_yaoqingma_button.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg_normal.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\search_plate_global.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\search_plate_global.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\main_top_weather.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\main_top_weather.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\prev_disable.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\prev_disable.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\txtbtn_black_blue.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\txtbtn_black_blue.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit_focused.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_transit_focused.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_search_radio_left.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_search_radio_left.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_pl_center_down_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_pl_center_down_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_info_bubble.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit_off.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_transit_off.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\call_popwindow_txtbg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\call_popwindow_txtbg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg_pressed.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\chatfrom_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_button_left_default.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\switch_button_left_default.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_loading.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\anim_loading.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_repair.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_repair.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\radio4_item_bg.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\radio4_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\update_dialog_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\update_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_s_right_down_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_s_right_down_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_empty_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_empty_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_search_radio_right.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_search_radio_right.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\direct_mapsearch.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\direct_mapsearch.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\call_selector.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\call_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_search_radio_center.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_search_radio_center.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\process_all_normal.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\process_all_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button_login2.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\blue_button_login2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_product_pram_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_product_pram_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\point.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\point.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\item_pressed_bottom.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\item_pressed_bottom.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_kfdh_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_kfdh_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_product_detail_simple_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_product_detail_simple_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_register_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_register_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\groundoverlay.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\groundoverlay.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_btn_txt_normal.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\blue_btn_txt_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_button_orderall_on.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\switch_button_orderall_on.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving_off.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_driving_off.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shop_not.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shop_not.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\message_bg_2.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\message_bg_2.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_yiliao.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_yiliao.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_download.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_download.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_order_delete.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_order_delete.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_state.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\selected_state.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\radio4_item_bg1.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\radio4_item_bg1.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_drag_down_normal.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_nav_drag_down_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_usercenter_btn2.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_usercenter_btn2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_transit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_btn_login.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\blue_btn_login.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_coupon_outdated.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_coupon_outdated.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_togglebar_button2.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_togglebar_button2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_default.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\text_search_default.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_togglebar_button4.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_togglebar_button4.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\sytle_usercenter_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\sytle_usercenter_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\recharge_confim_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\recharge_confim_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_pressed.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\text_search_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_driving.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\qrcode_scan_line.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\qrcode_scan_line.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\traffic_btnbg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\traffic_btnbg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_login_by_phone.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_login_by_phone.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_s_left_up_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_s_left_up_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_mini.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\progressbar_mini.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg_normal.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\radio4_item_bg22.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\radio4_item_bg22.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_search_left_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_search_left_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\daishoukuaidi_pressed.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\daishoukuaidi_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk_on.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_walk_on.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_item_top.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_item_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_topbar_search.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_topbar_search.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_nomal.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\bg_edittext_nomal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_goumai.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_goumai.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_tuijianyingyong.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_tuijianyingyong.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_pay_right.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_pay_right.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_s_center_up_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_s_center_up_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\recharge_coupon_white_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\recharge_coupon_white_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_reg_by_phone.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_reg_by_phone.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_white.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\edittext_white.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_wifi.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_wifi.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_favorite_delete.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_favorite_delete.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\chatfrom_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\direct_mapsearch_pressed.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\direct_mapsearch_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_tuichu.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_tuichu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\update_cancle_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\update_cancle_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_tiaozhaoshichang.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_tiaozhaoshichang.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\radio4_item_bg12.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\radio4_item_bg12.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\chatto_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\weixin.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\weixin.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_default_small.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\sytle_logout_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\sytle_logout_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_drag_down_pressed.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_nav_drag_down_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\sytle_photo_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\sytle_photo_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\white_btn_normal2.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\white_btn_normal2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_search_button.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_search_button.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_item.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_route_pre.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_route_pre.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\next_disable.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\next_disable.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving_focused.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_driving_focused.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving_on.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\mode_driving_on.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\tb_munion_icon.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_route_next.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\btn_route_next.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_open_wifi.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_open_wifi.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\update_confirm_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\update_confirm_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_togglebar_button3.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_togglebar_button3.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_button_right_on.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\switch_button_right_on.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_add_favorite_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_add_favorite_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_linearlayout_pay.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\bg_linearlayout_pay.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\traffic_txt_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\traffic_txt_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_tongzhi.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_tongzhi.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg_pressed.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\chatto_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_select_city_btn.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_select_city_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_center.9.png",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\item_bg_center.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_shop.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_shop.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\recharge_coupon_yellow_bg.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\recharge_coupon_yellow_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\8-26\\last\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable\\style_spinner.xml",
+        "source": "E:\\workspace\\8-26\\last\\Mantoto4Android\\res\\drawable\\style_spinner.xml"
+    }
+]

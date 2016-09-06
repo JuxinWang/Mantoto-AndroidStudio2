@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="wifi_pay">#323232</color>
+    <color name="gray">#adadad</color>
+    <color name="red">#ff0000</color>
+    <color name="pdgray">#dcdcdc</color>
+    <color name="common_bg">#e6ebec</color>
+    <color name="blue">#8F8FBD</color>
+    <color name="text">#666666</color>
+    <color name="bcblue">#00b1ff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="pay_background">#F2F2F2</color>
+    <color name="number_color">#EA4933</color>
+    
+    <color name="primary">#FF7E00</color>
+    <color name="primary_dark">#FF7E00</color>
+    <color name="transparent">#e0000000</color>
+
+    <color name="status_bar_color">#FF7E00</color> 
+    <color name="background_color">#F0F0F0</color>
+    
+    <color name="myPrimaryColor">#3F51B5</color>
+    <color name="myPrimaryDarkColor">#3F51B5</color>
+    <color name="myAccentColor">#3F51B5</color>
+    <color name="myDrawerBackground">#F2F2F2</color>
+    <color name="myWindowBackground">#DEDEDE</color>
+    <color name="myTextPrimaryColor">#FFFFFF</color>
+    <color name="myNavigationColor">#000000</color>
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_gray">#DADADA</color>
+    <color name="selected_gray">#ffdbdbdb</color>
+    <color name="icon_bottom_text">#646464</color>
+    
+    <!-- 软件更新提示 -->
+    <color name="update_color_titl_bg">#0691EE</color>
+    <color name="update_color_info">#6A6A6A</color>
+
+</resources>

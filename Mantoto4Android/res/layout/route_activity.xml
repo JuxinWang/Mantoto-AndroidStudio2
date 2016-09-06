@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ffffff"
+        >
+
+        <Button
+            android:id="@+id/topbar_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="17dp"
+            android:background="@drawable/style_topbar_left"
+            android:paddingLeft="5dp"
+            />
+
+        <TextView
+            android:id="@+id/topbar_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            />
+
+        <Button
+            android:id="@+id/imagebtn_roadsearch_search"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="17dp"
+            android:paddingRight="5dp"
+            android:background="@drawable/search"
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/list_line"
+        />
+    <RelativeLayout
+        android:id="@+id/RelativeLayout_roadsearch_top"
+        android:layout_width="fill_parent"
+        android:layout_height="140dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/white"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:id="@+id/btn_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/imagebtn_roadsearch_tab_transit"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.0"
+                    android:text="公交车"
+                    android:textSize="16sp"
+                    android:textColor="@color/base_color_text_black"
+                    android:background="@drawable/traffic_btnbg" />
+
+                <Button
+                    android:id="@+id/imagebtn_roadsearch_tab_driving"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1.0"
+                    android:text="自驾出行"
+                    android:textSize="16sp"
+                    android:textColor="@color/base_color_text_black"
+                    android:background="@drawable/traffic_btnbg" />
+
+                <Button
+                    android:id="@+id/imagebtn_roadsearch_tab_walk"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:text="步行"
+                    android:textSize="16sp"
+                    android:textColor="@color/base_color_text_black"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/traffic_btnbg" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/imagebtn_roadsearch_startoption"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/btn_layout"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:background="@color/primary"
+            android:text="起点"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+             />
+
+        <Button
+            android:id="@+id/imagebtn_roadsearch_endoption"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/imagebtn_roadsearch_startoption"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/primary"
+            android:text="目的地"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+             />
+
+        <EditText
+            android:id="@+id/autotextview_roadsearch_start"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignTop="@id/imagebtn_roadsearch_startoption"
+            android:layout_toRightOf="@id/imagebtn_roadsearch_startoption"
+            android:dropDownVerticalOffset="1.0dip"
+            android:background="@drawable/traffic_txt_bg"
+            android:maxLength="20"
+            android:paddingLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:singleLine="true"
+            />
+
+        <EditText
+            android:id="@+id/autotextview_roadsearch_goals"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_alignTop="@id/imagebtn_roadsearch_endoption"
+            android:layout_toRightOf="@id/imagebtn_roadsearch_endoption"
+            android:background="@drawable/traffic_txt_bg"
+            android:dropDownVerticalOffset="1.0dip"
+            android:maxLength="20"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:layout_marginRight="10dp"
+            />
+  </RelativeLayout>
+
+    <com.amap.api.maps2d.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
