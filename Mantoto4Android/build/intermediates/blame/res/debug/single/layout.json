@@ -1,622 +1,650 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_set.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\shop_coupons_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\shop_coupons_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\jiaotong.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\jiaotong.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome4.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_welcome4.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\setting.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\paid_services.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\paid_services.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\push.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\push.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_login_topbar.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_login_topbar.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_welcome.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shop_coupons.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_shop_coupons.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\sec_download_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\sec_download_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\softupdate_progress.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\softupdate_progress.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_recharge_pay.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\dialog_recharge_pay.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\main.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_title.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_bottom_press.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_bottom_press.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_voucher.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_voucher.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\about.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\mipca_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\mipca_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_detail_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_detail_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\sticker.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\sticker.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome4.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_welcome4.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\splash.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_address.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_address.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_app_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\gridview_app_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\poi_result_list.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\poi_result_list.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\setting.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plot_location.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_plot_location.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_voucher.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_voucher.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\webview_pay_activity.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\webview_pay_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_item_entity_content.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_item_entity_content.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_balencecommon.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\wifi_balencecommon.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\push_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\push_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coupon_code.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_coupon_code.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quan_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_quan_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_entity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_entity.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\network_error.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\network_error.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_detail_own.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_detail_own.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\register2.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\register2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recharge.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_recharge.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\popupwindow.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_test.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\softupdate_progress.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\softupdate_progress.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\message_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\message_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_item_voucher_content.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_item_voucher_content.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_detail_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_detail_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_login_topbar.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_login_topbar.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\wifipassword.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\wifipassword.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plot_control.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_plot_control.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\wifipassword.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\wifipassword.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_detail_own_content.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_detail_own_content.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_myentity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_myentity.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome3.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_welcome3.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome2.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_welcome2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\push_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\push_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_test.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\sticker.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\sticker.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_welcome.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_topbar.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_topbar.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\gridview_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\webview_pay_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\webview_pay_activity.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_balence.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_balence.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome1.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_welcome1.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\complete_footer_layout.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\complete_footer_layout.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_weather.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_weather.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_topbar.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_topbar.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\addbianqian.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\addbianqian.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_success.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_pay_success.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\mipca_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\mipca_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plot_control.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_plot_control.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_discount.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_discount.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_message.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_set_message.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inform.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_inform.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_detail.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_detail.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_weather.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_weather.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_main.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\gridview_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\discount_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\discount_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shop_goods.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_shop_goods.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coupon_listview.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_coupon_listview.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_search_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\gridview_search_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paymoney.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_paymoney.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\complete_footer_layout.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\complete_footer_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\login.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_address.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_address.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_main.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\gridview_main.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\message_btn.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\message_btn.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome2.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_welcome2.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\jiaotong.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\jiaotong.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paymoney.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_paymoney.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\sec_note_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\sec_note_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_center.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_center.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_shop.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_search_shop.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shop_coupon.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_shop_coupon.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_edit_address.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_edit_address.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coupon_code.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_coupon_code.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_detail.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_detail.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goods_caupon_list.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_goods_caupon_list.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_banlance_zero.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\dialog_banlance_zero.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recharge.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_recharge.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coupon_listview.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_coupon_listview.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_item_voucher_content.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_item_voucher_content.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\qr_code_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\qr_code_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\push_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\push_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_address_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_address_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\help.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goods_caupon_list.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_goods_caupon_list.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_radiogroup.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_radiogroup.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\bianqian_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\bianqian_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_shop.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_search_shop.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_banlance_zero.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\dialog_banlance_zero.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_neighborhood_list.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_neighborhood_list.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\message_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\message_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\umeng_update_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shop_coupon.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_shop_coupon.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\sec_update_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\sec_update_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\main_radio2_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\main_radio2_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plot_location.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_plot_location.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_pay_voucher.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_pay_voucher.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_item_voucher2_content.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_item_voucher2_content.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\common_infomation_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\common_infomation_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\main_radio2.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\main_radio2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_call.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_myentity.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_myentity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\register2.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\register2.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_address_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_address_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_bottom_press.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_bottom_press.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_detail_own_content.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_detail_own_content.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shop_goods.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_shop_goods.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_fail.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_pay_fail.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\sales_promotion_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\sales_promotion_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\poi_result_list.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\poi_result_list.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_plot.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_search_plot.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_canyin_own_detail.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_canyin_own_detail.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\qr_code_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\qr_code_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_pay_entity.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_pay_entity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_neighborhood_list.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_neighborhood_list.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_capture.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\update_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\update_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_pay_voucher.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_pay_voucher.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\gridview_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_top_tab.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_main_top_tab.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_fail.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_pay_fail.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_pay_entity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_pay_entity.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_list.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_list.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uncompelete_order.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_uncompelete_order.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\network_error.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\network_error.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_contacts.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\yiliao.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\yiliao.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commit_order_test.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_commit_order_test.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_notfound.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_location_notfound.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remind_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_remind_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\sec_note_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\sec_note_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\main_radio2.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\main_radio2.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_capture.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_message.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_set_message.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_login.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_wifi_login.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\route_activity.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\route_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\appshare_app_pop.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\appshare_app_pop.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\complete_order_list.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\complete_order_list.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\common_infomation.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\common_infomation.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_success.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_pay_success.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_center.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_center.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\location_neighborhood.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\location_neighborhood.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\paid_services.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\paid_services.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_entity.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_entity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_bottom.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_bottom.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\more.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\more.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\property_notification_info.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\property_notification_info.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_search_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\gridview_search_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\push.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\push.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\property_notification_info.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\property_notification_info.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\shop_goods_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\shop_goods_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_title.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_bottom.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_canyin_own_detail.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_canyin_own_detail.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_password.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_find_password.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\message_btn.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\message_btn.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\appshare_app_pop.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\appshare_app_pop.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\main_radio2_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\main_radio2_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\sec_update_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\sec_update_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_set.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\about.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_login.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_wifi_login.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_recharge_pay.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\dialog_recharge_pay.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_item_voucher2_content.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_item_voucher2_content.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\routesearch_list_poi.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\routesearch_list_poi.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_edit_address.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_edit_address.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\route_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\route_activity.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\push_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\push_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_item_entity_content.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_item_entity_content.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_notfound.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_location_notfound.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome1.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_welcome1.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_address_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_address_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\more.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\more.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_order.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_my_order.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_myvoucher.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_myvoucher.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\addbianqian.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\addbianqian.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_password.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_find_password.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\update_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\update_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\bianqian_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\bianqian_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sales_promotion.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_sales_promotion.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\location_neighborhood.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\location_neighborhood.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uncompelete_order.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_uncompelete_order.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_list.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_list.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inform.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_inform.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_app_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\gridview_app_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\popupwindow.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\routesearch_list_poi.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\routesearch_list_poi.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\common_infomation.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\common_infomation.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quan_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_quan_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\canyin_detail_own.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\canyin_detail_own.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\help.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\splash.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome3.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_welcome3.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_chat.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\sec_download_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\sec_download_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\discount_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\discount_list_item.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_balence.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_balence.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_plot.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_search_plot.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\umeng_update_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friend.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\fragment_friend.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sales_promotion.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_sales_promotion.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_call.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\include_main_radiogroup.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\include_main_radiogroup.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_address_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\user_address_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_balencecommon.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\wifi_balencecommon.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\normal_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\normal_dialog.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\common_infomation_list_item.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\common_infomation_list_item.xml"
+    },
+    {
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_discount.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_discount.xml"
+    },
+    {
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\order_commit_myvoucher.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\order_commit_myvoucher.xml"
+    },
+    {
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\normal_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\normal_dialog.xml"
+    },
+    {
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\yiliao.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\yiliao.xml"
+    },
+    {
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remind_dialog.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\layout\\activity_remind_dialog.xml"
     }
 ]

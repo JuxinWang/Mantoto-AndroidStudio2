@@ -1,19 +1,26 @@
 package com.wuxianyingke.property.adapter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
+import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.mantoto.property.R;
+import com.wuxianyingke.property.activities.CanyinDetailOwnActivity;
+import com.wuxianyingke.property.activities.CommitOrderActivity;
+import com.wuxianyingke.property.common.LocalStore;
 import com.wuxianyingke.property.common.SDCardUtils;
 import com.wuxianyingke.property.common.Util;
 import com.wuxianyingke.property.remote.RemoteApi;
@@ -24,6 +31,7 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Executor;
@@ -70,13 +78,13 @@ public class TestAdapter  extends BaseAdapter {
         if (convertView == null){
 
             View v =  LayoutInflater.from(mContext).inflate(
-                    R.layout.canyin_detail_own_content, null);
+                    R.layout.shop_goods_item, null);
             productItem = new ProductItem();
             productItem.mProductTitle = (TextView) v.findViewById(R.id.canyin_title);
             productItem.mProductPic = (ImageView) v.findViewById(R.id.canyinImg);
             productItem.mProductDesc = (TextView) v.findViewById(R.id.canyin_desc);
             productItem.mProductPrice = (TextView) v.findViewById(R.id.canyin_price);
-            productItem.mProductbuy = (ImageView) v.findViewById(R.id.goumai);
+            productItem.mProductbuy = (Button) v.findViewById(R.id.goumaiImg);
             v.setTag(productItem);
             convertView = v;
 
@@ -86,8 +94,41 @@ public class TestAdapter  extends BaseAdapter {
             productItem.mProductPic.setImageResource(R.drawable.login_top); // 重置图片控件
         }
 
-        productItem.mProductTitle.setText(info.header);
+        productItem.mProductTitle.setText("【"+info.header+"】");
         productItem.mProductDesc.setText(info.body);
+
+        if(info.ForSal){
+            DecimalFormat df = new DecimalFormat("0.00");
+            Log.i("MyLog","productItem.mProductPrice"+productItem.mProductPrice);
+            productItem.mProductPrice.setText("¥"+df.format(info.Price));
+            productItem.mProductbuy.setVisibility(View.VISIBLE);
+            productItem.mProductbuy.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    LocalStore.setPromotionId(mContext,info.PromotionID);
+                    Log.i("MyLog", "所有的活动商品信息-----PromotionID=" + info.PromotionID);
+                    Intent intent = new Intent(
+                            mContext,
+                            CommitOrderActivity.class);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                    Bundle bundle = new Bundle();
+                    bundle.putDouble("price",
+                            info.Price);
+                    bundle.putString("name",
+                           info.header);
+                    bundle.putLong("promotionid",
+                            info.PromotionID);
+                    bundle.putInt("SaleTypeId", info.SaleTypeID);
+                    Log.i("MyLog", "当前的SaleTypeId的标记为：----promotion:"+info.SaleTypeID);
+                    intent.putExtras(bundle);
+
+                    mContext.startActivity(intent);
+                    Log.i("MyLog",
+                            "promotionid------"+ info.PromotionID);
+                }
+            });
+
+        }
 
      /*   if(productItem.mProductPic==null){
             productItem.mProductPic.setImageResource(R.drawable.peisong);
@@ -153,7 +194,7 @@ public class TestAdapter  extends BaseAdapter {
         TextView mProductTitle;
         TextView  mProductPrice;
         TextView  mProductDesc;
-        ImageView mProductbuy;
+        Button mProductbuy;
 
 
 

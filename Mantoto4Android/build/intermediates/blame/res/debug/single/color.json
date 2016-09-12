@@ -1,114 +1,106 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\icon_bottom_txt.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\icon_bottom_txt.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\product_detail_bg_color.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\product_detail_bg_color.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\blue_btn_txt_normal.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\blue_btn_txt_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_edittext.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\togglebar_text_color.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\togglebar_text_color.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\icon_bottom_txt.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\icon_bottom_txt.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\square_text_color.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\square_text_color.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\login_text_color.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\login_text_color.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\radio_text_color.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\radio_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_default.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\plot_control_txt.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\plot_control_txt.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\Mantoto-AndroidStudio\\ViewPagerIndicator\\unspecified\\res\\color\\vpi__dark_theme.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\blue_btn_txt_normal.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\blue_btn_txt_normal.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\togglebar_text_color.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\togglebar_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\radio_text_color.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\radio_text_color.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_spinner.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\plot_control_txt.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\plot_control_txt.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_search_url_text.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\product_detail_bg_color.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\product_detail_bg_color.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\login_text_color.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\login_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\repair_type_radio_text_color.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\repair_type_radio_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\Mantoto-AndroidStudio\\ViewPagerIndicator\\unspecified\\res\\color\\vpi__light_theme.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\repair_type_radio_text_color.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\repair_type_radio_text_color.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\color\\square_text_color.xml",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\color\\square_text_color.xml"
     }
 ]

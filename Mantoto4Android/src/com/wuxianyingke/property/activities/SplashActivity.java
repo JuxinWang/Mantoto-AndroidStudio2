@@ -40,7 +40,7 @@ import com.wuxianyingke.property.remote.RemoteApi.Loading;
 import com.wuxianyingke.property.remote.RemoteApiImpl;
 import com.wuxianyingke.property.service.SendLocation;
 
-public class SplashActivity extends Activity {
+public class SplashActivity extends BaseActivity {
 	private final static String FIRST_CONFIG_MESSAGE = "first_config_message";
 	private final static String CHANNEL_ID = "channel_id";
 	public final static int MSG_GOTO_MAIN = 1;

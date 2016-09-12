@@ -33,12 +33,13 @@ import com.wuxianyingke.property.remote.RemoteApiImpl;
 public class CommitVoucherContentDetailsActivity extends BaseActivity {
 	/** 订单名称，描述，单价，订单号码，使用数量，下单时间，订单金额，手机号码 */
 	private TextView header, describe, price, orderNumber, UseNumber,
-			payOrderTime, total, phone, textPhone, refund,cauponstyle;
+			payOrderTime, total, phone, textPhone,cauponstyle,
+			couponPrice,realPay;
 	/** 顶面图片 */
 	private ImageView image;
 	// 顶部导航
 	private TextView topbar_txt;
-	private Button topbar_left;
+	private Button topbar_left,refund;
 	private int favorite_flag;
 	private int mode;
 	private long ordersequencenumber;
@@ -94,7 +95,9 @@ public class CommitVoucherContentDetailsActivity extends BaseActivity {
 		String url = intent.getStringExtra("path");
 		header.setText(intent.getStringExtra("header"));
 		describe.setText(intent.getStringExtra("body"));
-		price.setText("￥：" + intent.getDoubleExtra("price", 0));
+		price.setText("￥：" + intent.getDoubleExtra("Total", 0));
+		couponPrice.setText("￥：" + intent.getDoubleExtra("price", 0));
+		realPay.setText("￥：" +(intent.getDoubleExtra("Total", 0)-intent.getDoubleExtra("price", 0)));
 		orderNumber.setText(intent.getStringExtra("OrderID"));
 		UseNumber.setText("" + intent.getIntExtra("Number", 0));
 		payOrderTime.setText(intent.getStringExtra("CTime"));
@@ -259,8 +262,11 @@ public class CommitVoucherContentDetailsActivity extends BaseActivity {
 		UseNumber = (TextView) findViewById(R.id.order_Commit_NumberId);// 使用数量
 		payOrderTime = (TextView) findViewById(R.id.order_Commit_TimeId);// 下单时间
 		total = (TextView) findViewById(R.id.order_Commit_TotalPriceId);// 订单金额
+		couponPrice = (TextView) findViewById(R.id.order_coupon_numId);//优惠券实付
+		realPay = (TextView) findViewById(R.id.order_real_payId);//实付金额
 		phone = (TextView) findViewById(R.id.order_Commit_PhoneNumberId);// 手机号码
-		refund = (TextView) findViewById(R.id.tv_refund);
+
+		refund = (Button) findViewById(R.id.tv_refund);
 		textPhone = (TextView) findViewById(R.id.order_Commit_phoneId);
 
 		image = (ImageView) findViewById(R.id.image_NameId);// 图片

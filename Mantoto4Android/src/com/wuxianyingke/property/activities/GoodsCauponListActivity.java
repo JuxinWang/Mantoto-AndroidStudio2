@@ -1,3 +1,4 @@
+/*
 package com.wuxianyingke.property.activities;
 
 import android.app.Activity;
@@ -203,3 +204,4 @@ public class GoodsCauponListActivity extends BaseActivity {
         }
     }
 }
+*/

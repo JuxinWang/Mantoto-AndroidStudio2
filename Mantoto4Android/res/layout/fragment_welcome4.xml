@@ -7,6 +7,6 @@
 	    android:id="@+id/imgId"
 	    android:layout_width="match_parent"
 	    android:layout_height="match_parent"
-	    android:background="@drawable/welcome4"/>
+	    android:background="@drawable/guide4"/>
 
 </RelativeLayout>

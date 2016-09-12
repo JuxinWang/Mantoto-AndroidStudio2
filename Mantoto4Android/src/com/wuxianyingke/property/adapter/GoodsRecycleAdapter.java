@@ -1,3 +1,4 @@
+/*
 package com.wuxianyingke.property.adapter;
 
 import android.content.Context;
@@ -10,11 +11,15 @@ import com.wuxianyingke.property.remote.RemoteApi;
 
 import java.util.List;
 
+*/
 /**
  * Created by Administrator on 2016/8/24 0024.
- */
+ *//*
+
 public class GoodsRecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
-    /** item 的类型 */
+    */
+/** item 的类型 *//*
+
     private static final int ITEM_TYPE_SHOPS = 0;//商品
     private static final int ITEM_TYPE_COUPON_NOPIC = 1;//商家券 （无图）
     private static final int ITEM_TYPE_COUPON = 2;//商家券 有图
@@ -29,9 +34,11 @@ public class GoodsRecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewH
         this.mList = mList;
     }
 
-    /**
+    */
+/**
      * 自定义ViewHold  商家商品ViewHolder
-     */
+     *//*
+
     public static class ShopViewHolder extends RecyclerView.ViewHolder{
         public TextView mTextView;
         public ShopViewHolder(View itemView) {
@@ -40,9 +47,11 @@ public class GoodsRecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewH
         }
     }
 
-    /**
+    */
+/**
      * 自定义ViewHold  商家券ViewHolder
-     */
+     *//*
+
     public static class CouponViewHolder extends RecyclerView.ViewHolder{
         public TextView mTextView;
         public CouponViewHolder(View itemView) {
@@ -51,9 +60,11 @@ public class GoodsRecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewH
         }
     }
 
-    /**
+    */
+/**
      * 自定义ViewHold  商家券ViewHolder
-     */
+     *//*
+
     public static class CouponNopicViewHolder extends RecyclerView.ViewHolder{
         public TextView mTextView;
         public CouponNopicViewHolder(View itemView) {
@@ -62,9 +73,11 @@ public class GoodsRecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewH
         }
     }
 
-    /**
+    */
+/**
      * 自定义ViewHold  商家活动ViewHolder
-     */
+     *//*
+
     public static class ActiveViewHolder extends RecyclerView.ViewHolder{
         public TextView mTextView;
         public ActiveViewHolder(View itemView) {
@@ -107,3 +120,4 @@ public class GoodsRecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewH
 
 
 }
+*/

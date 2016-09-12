@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "outputFile": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,
@@ -30,7 +30,7 @@
                     "endOffset": 143
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -49,7 +49,7 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
@@ -68,7 +68,7 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
@@ -87,7 +87,7 @@
                     "endOffset": 304
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
@@ -106,7 +106,7 @@
                     "endOffset": 352
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
@@ -125,7 +125,7 @@
                     "endOffset": 394
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
@@ -144,7 +144,7 @@
                     "endOffset": 442
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
@@ -163,7 +163,7 @@
                     "endOffset": 499
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
@@ -182,7 +182,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
@@ -201,7 +201,7 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
@@ -220,7 +220,7 @@
                     "endOffset": 641
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
@@ -239,7 +239,7 @@
                     "endOffset": 689
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
@@ -258,7 +258,7 @@
                     "endOffset": 747
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
@@ -277,7 +277,7 @@
                     "endOffset": 807
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
@@ -296,7 +296,7 @@
                     "endOffset": 873
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -315,7 +315,7 @@
                     "endOffset": 930
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
@@ -334,7 +334,7 @@
                     "endOffset": 992
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
@@ -353,7 +353,7 @@
                     "endOffset": 1060
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
@@ -372,7 +372,7 @@
                     "endOffset": 1137
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
@@ -391,7 +391,7 @@
                     "endOffset": 1209
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
@@ -410,7 +410,7 @@
                     "endOffset": 1281
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 1346
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
@@ -448,7 +448,7 @@
                     "endOffset": 1418
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
@@ -467,7 +467,7 @@
                     "endOffset": 1497
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 1,
@@ -486,7 +486,7 @@
                     "endOffset": 1573
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
@@ -505,7 +505,7 @@
                     "endOffset": 1647
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,

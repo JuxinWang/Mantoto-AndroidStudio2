@@ -2983,6 +2983,7 @@ public class RemoteApiImpl implements RemoteApi {
 					livingItem.avg_price = obj.getInt("avg_price");
 					livingItem.has_activity = obj.getInt("has_activity");
 					livingItem.has_coupon = obj.getInt("has_coupon");
+					livingItem.ForExpress = obj.getBoolean("ForExpress");
 					try {
 						if (livingItem.has_coupon > 0) {
 							//含优惠券
@@ -3193,6 +3194,8 @@ public class RemoteApiImpl implements RemoteApi {
 					promotionItem.Width = obj.getInt("Width");
 					promotionItem.ForSal = obj.getBoolean("ForSale");
 					promotionItem.PromotionID = obj.getLong("PromotionID");
+					promotionItem.PromotionTypeID = obj.getInt("PromotionTypeID");
+
 					livingItem.promotionList.add(promotionItem);
 
 					// Log.i("Mylog", "response"+promotionItem.PromotionID);

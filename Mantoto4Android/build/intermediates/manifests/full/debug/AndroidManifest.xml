@@ -4,9 +4,7 @@
     android:versionCode="47"
     android:versionName="2.4.4" >
 
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="4" />
+    <uses-sdk android:minSdkVersion="14" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
@@ -422,11 +420,7 @@
             android:name="com.wuxianyingke.property.activities.CommitOrderListActivity"
             android:configChanges="orientation|keyboardHidden|navigation"
             android:screenOrientation="portrait" />
-        <!-- 测试 订单列表（我的订单） -->
-        <activity
-            android:name="com.wuxianyingke.property.activities.UnCompleteOrderActivity"
-            android:configChanges="orientation|keyboardHidden|navigation"
-            android:screenOrientation="portrait" />
+
         <!-- 我的消费券 -->
         <activity
             android:name="com.wuxianyingke.property.activities.CommitVoucherActivity"
@@ -823,10 +817,6 @@
             android:configChanges="orientation|keyboardHidden|navigation"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.wuxianyingke.property.activities.ShopCouponActivity"
-            android:configChanges="orientation|keyboardHidden|navigation"
-            android:screenOrientation="portrait" />
-        <activity
             android:name="com.wuxianyingke.property.activities.TestActivity"
             android:configChanges="orientation|keyboardHidden|navigation"
             android:screenOrientation="portrait" />
@@ -843,12 +833,14 @@
             android:configChanges="orientation|keyboardHidden|navigation"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.wuxianyingke.property.activities.CommitOrderTestActivity"
+            android:name="com.wuxianyingke.property.activities.CouponCodeActivity"
             android:configChanges="orientation|keyboardHidden|navigation"
-            android:screenOrientation="portrait"
-            android:theme="@style/Theme.PageIndicatorDefaults" />
-        <activity android:name="com.wuxianyingke.property.activities.DiscountActivity" />
-        <activity android:name="com.wuxianyingke.property.activities.CouponCodeActivity" />
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.wuxianyingke.property.activities.ShopCouponsActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.wuxianyingke.property.activities.MyOrderActivity" />
     </application>
 
 </manifest>

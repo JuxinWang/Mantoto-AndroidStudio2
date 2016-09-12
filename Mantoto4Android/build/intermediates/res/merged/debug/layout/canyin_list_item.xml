@@ -88,7 +88,7 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/support_distribution"
                 android:layout_marginRight="17dp"
-                android:visibility="gone"
+
                   />
             </LinearLayout>
 

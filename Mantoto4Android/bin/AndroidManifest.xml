@@ -330,11 +330,7 @@
             android:name="com.wuxianyingke.property.activities.CommitOrderListActivity"
             android:configChanges="orientation|keyboardHidden|navigation"
             android:screenOrientation="portrait" />
-        <!-- 测试 订单列表（我的订单） -->
-        <activity
-            android:name="com.wuxianyingke.property.activities.UnCompleteOrderActivity"
-            android:configChanges="orientation|keyboardHidden|navigation"
-            android:screenOrientation="portrait" />
+
         <!-- 我的消费券 -->
         <activity
             android:name="com.wuxianyingke.property.activities.CommitVoucherActivity"

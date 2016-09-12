@@ -88,7 +88,7 @@ public class AddressActivity extends BaseActivity {
 					WindowManager.LayoutParams params =
 							dialog.getWindow().getAttributes();
 							params.width = 700;
-							params.height = 500 ;
+							params.height = 600 ;
 							dialog.getWindow().setAttributes(params);
 					TextView dialog_msg = (TextView) layout.findViewById(R.id.remind_messagesId);
 					TextView btnOK = (TextView) layout.findViewById(R.id.btn_yesId);
@@ -158,9 +158,6 @@ public class AddressActivity extends BaseActivity {
 					setResult(1, intent);
 					finish();
 					}
-
-
-
 
 
 				}

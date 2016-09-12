@@ -1,7 +1,6 @@
 package com.wuxianyingke.property.activities;
 
 import java.io.File;
-import java.util.ArrayList;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
@@ -33,11 +32,12 @@ import com.umeng.message.PushAgent;
 import com.wuxianyingke.property.adapter.GetVoucherQCodeListAdapter;
 import com.wuxianyingke.property.common.Constants;
 import com.wuxianyingke.property.common.SDCardUtils;
-import com.wuxianyingke.property.remote.RemoteApi;
 import com.wuxianyingke.property.threads.GetPromotionCodeThread;
 
 /**
  * 消费券详情
+ * @author liudongdong
+ *
  */
 public class CommitVoucherContentActivity extends BaseActivity {
 
@@ -47,9 +47,8 @@ public class CommitVoucherContentActivity extends BaseActivity {
 	private int mode; // 1:支付后的详情; 0:订单列表详情
 	/**订单名称，描述，单价，订单号码，*/
 	private TextView header, describe, price, promotionCodeFirst,
-			promotionCodeSecond,orderCommitCodeId;
+			promotionCodeSecond;
 	private String orderId;
-	private RemoteApi.PromotionCode mPromotionCode;
 	/**顶面图片*/
 	private ImageView image, DimisionCodeFirst, DimisionCodeSecond;
 	private long ordersequencenumber;
@@ -61,15 +60,15 @@ public class CommitVoucherContentActivity extends BaseActivity {
 		@Override
 		public void handleMessage(Message msg) {
 			switch (msg.what) {
-			case Constants.MSG_GET_CANYIN_LIST_FINISH:
-				mAdapter=new GetVoucherQCodeListAdapter(getApplicationContext(), mThread.mPromotionCode, orderId);
-				mListView.setAdapter(mAdapter);
-				mAdapter.notifyDataSetChanged();
-				break;
-			case Constants.MSG_NETWORK_ERROR:
-				Toast.makeText(getApplicationContext(), "网络连接出错请刷新", Toast.LENGTH_SHORT)
-						.show();
-				break;
+				case Constants.MSG_GET_CANYIN_LIST_FINISH:
+					mAdapter=new GetVoucherQCodeListAdapter(getApplicationContext(), mThread.mPromotionCode, orderId);
+					mListView.setAdapter(mAdapter);
+					mAdapter.notifyDataSetChanged();
+					break;
+				case Constants.MSG_NETWORK_ERROR:
+					Toast.makeText(getApplicationContext(), "网络连接出错请刷新", 1)
+							.show();
+					break;
 			}
 			super.handleMessage(msg);
 		}
@@ -89,10 +88,7 @@ public class CommitVoucherContentActivity extends BaseActivity {
 				ordersequencenumber);
 		mThread.start();
 
-		/*GetOrderListAdapter
-		intent.putExtra("ordersequencenumber",items.OrderSequenceNumber);
 
-		*/
 		String url = intent.getStringExtra("path");
 		header.setText(intent.getStringExtra("header"));
 		describe.setText(intent.getStringExtra("body"));
@@ -110,7 +106,6 @@ public class CommitVoucherContentActivity extends BaseActivity {
 			new ImageAsyncTask().execute(url);
 		}
 
-		
 		// 左侧返回菜单处理事件
 		topbar_left.setOnClickListener(new OnClickListener() {
 
@@ -124,7 +119,7 @@ public class CommitVoucherContentActivity extends BaseActivity {
 					intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 					intent.addFlags(intent.FLAG_ACTIVITY_SINGLE_TOP);
 					startActivity(intent);
-					
+
 				}else
 				{
 					finish();
@@ -133,9 +128,8 @@ public class CommitVoucherContentActivity extends BaseActivity {
 		});
 //		//生成二维码的方法
 //		CreateImageCode();
-
 	}
-	
+
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
 		if (keyCode == KeyEvent.KEYCODE_BACK&&mode==1) {
@@ -175,17 +169,15 @@ public class CommitVoucherContentActivity extends BaseActivity {
 		header = (TextView) findViewById(R.id.tv_goodId);// 订单名称
 		describe = (TextView) findViewById(R.id.tv_TotalPriceId);// 描述
 		price = (TextView) findViewById(R.id.tv_PriceId);// 单价
-	
+
 		image = (ImageView) findViewById(R.id.image_NameId);
 		mListView=(ListView) findViewById(R.id.quan_Ma_listViewId);
-		
+
 		// 顶部导航
 		topbar_txt = (TextView) findViewById(R.id.topbar_txt);
 		topbar_txt.setText("消费券详情");
 		topbar_left = (Button) findViewById(R.id.topbar_left);
 		topbar_left.setVisibility(View.VISIBLE);
-
-		orderCommitCodeId = (TextView) findViewById(R.id.order_Commit_CodeId);
 	}
 
 	class ImageAsyncTask extends AsyncTask<String, Void, Bitmap> {
@@ -221,5 +213,5 @@ public class CommitVoucherContentActivity extends BaseActivity {
 			}
 		}
 	}
-	
+
 }

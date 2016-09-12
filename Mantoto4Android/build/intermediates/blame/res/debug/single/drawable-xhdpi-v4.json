@@ -1,310 +1,278 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\me_normal.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\me_normal.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\canyin_pressed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\canyin_pressed.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yiliao_pressed.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\yiliao_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_top_yezi.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\main_top_yezi.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wodedingdan.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\wodedingdan.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiugaimima.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\xiugaimima.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiaofeiquan.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\xiaofeiquan.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\notification.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiaotong_pressed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\jiaotong_pressed.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_left.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\arrow_left.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\Mantoto-AndroidStudio\\ViewPagerIndicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wifi_add.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\wifi_add.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shenghuofuwu_pressed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\shenghuofuwu_pressed.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_pic.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\main_pic.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\Mantoto-AndroidStudio\\ViewPagerIndicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shenghuobianqian_pressed.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\shenghuobianqian_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_normal.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\call_normal.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\successed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\successed.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tongzhi_pressed.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\tongzhi_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\canyin_pressed.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\canyin_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiaotong_pressed.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\jiaotong_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_top_yezi.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\main_top_yezi.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\Mantoto-AndroidStudio\\ViewPagerIndicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tongzhi_pressed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\tongzhi_pressed.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\house_normal.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\house_normal.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shouye_house2.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\shouye_house2.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\topbar_left_normal.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\topbar_left_normal.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\changyongdizhi.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\changyongdizhi.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\topbar_left_normal.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\topbar_left_normal.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shenghuofuwu_pressed.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\shenghuofuwu_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrowright_gray.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\arrowright_gray.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wifi_add.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\wifi_add.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wodedingdan.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\wodedingdan.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\Mantoto-AndroidStudio\\ViewPagerIndicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gouwu_pressed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\gouwu_pressed.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gouwu_pressed.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\gouwu_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\icon.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiaofeiquan.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\xiaofeiquan.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_top_date.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\main_top_date.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wifi_pressed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\wifi_pressed.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wifi_pressed.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\wifi_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_hou.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\call_hou.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_pic.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\main_pic.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guanyu.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\guanyu.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shouye_house1.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\shouye_house1.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_selected.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\call_selected.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\Mantoto-AndroidStudio\\ViewPagerIndicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\house_selected.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\house_selected.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_alpha.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_alpha.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrowright_gray.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\arrowright_gray.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\successed.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\successed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xinxi_normal2.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\xinxi_normal2.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shenghuobianqian_pressed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\shenghuobianqian_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\notification.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\Mantoto-AndroidStudio\\ViewPagerIndicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\call.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yiliao_pressed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\yiliao_pressed.png"
+        "merged": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\me_selected.png",
+        "source": "G:\\asproject\\Mantoto-AndroidStudio\\Mantoto-AndroidStudio\\Mantoto4Android\\res\\drawable-xhdpi\\me_selected.png"
     }
 ]

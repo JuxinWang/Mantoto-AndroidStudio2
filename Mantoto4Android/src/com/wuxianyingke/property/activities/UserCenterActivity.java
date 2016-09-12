@@ -37,7 +37,7 @@ import com.wuxianyingke.property.remote.RemoteApi;
 import com.wuxianyingke.property.remote.RemoteApi.UpdateInfo;
 import com.wuxianyingke.property.remote.RemoteApiImpl;
 import com.wuxianyingke.property.views.StatusBarCompat;
-
+//优惠券
 public class UserCenterActivity extends BaseActivity {
 
 	private LinearLayout mwodedingdanLinearLayout, mxinxiLinearLayout,dizhiguanliLinearLayout,
@@ -89,7 +89,9 @@ public class UserCenterActivity extends BaseActivity {
 		userName.setText(username);
 
 
-
+		Intent intent =getIntent();
+		String userplot = intent.getStringExtra("plot");
+		userPlot.setText(userplot);
 
 
 	}
@@ -189,7 +191,7 @@ public class UserCenterActivity extends BaseActivity {
 				/*intent.setClass(UserCenterActivity.this,
 						CommitOrderListActivity.class);*/
 				intent.setClass(UserCenterActivity.this,
-						CommitOrderTestActivity.class);
+						MyOrderActivity.class);
 				startActivity(intent);
 
 			}

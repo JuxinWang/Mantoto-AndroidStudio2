@@ -233,7 +233,7 @@ public class WIFILoginActivity extends BaseActivity {
 			}
 		});
 		topbar_left.setVisibility(View.VISIBLE);
-		topbar_left.setBackgroundResource(R.drawable.arrowtest);
+		topbar_left.setBackgroundResource(R.drawable.style_topbar_left);
 		topbar_left.setOnClickListener(new OnClickListener() {
 
 			@Override

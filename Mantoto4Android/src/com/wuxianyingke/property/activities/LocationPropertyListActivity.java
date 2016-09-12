@@ -54,43 +54,43 @@ public class LocationPropertyListActivity extends BaseActivity {
 				mProgressBar = null;
 			}
 			switch (msg.what) {
-			// 查找小区
-			case 2:
+				// 查找小区
+				case 2:
 
-				propertysList = mThread.getPropertyList();
-				Log.i("MyLog", "当前小区信息为-----" + propertysList);
+					propertysList = mThread.getPropertyList();
+					Log.i("MyLog", "当前小区信息为-----" + propertysList);
 
-				mList.addAll(propertysList);
+					mList.addAll(propertysList);
 
-				String[] propertys = new String[mList.size()];
+					String[] propertys = new String[mList.size()];
 
-				for (int i = 0; i < mList.size(); i++) {
+					for (int i = 0; i < mList.size(); i++) {
 
-					propertys[i] = mList.get(i).PropertyName;
-					Log.i("MyLog", "当前集合的内容为————————"
-							+ mList.get(i).PropertyName);
-				}
+						propertys[i] = mList.get(i).PropertyName;
+						Log.i("MyLog", "当前集合的内容为————————"
+								+ mList.get(i).PropertyName);
+					}
 
-				adapter = new ArrayAdapter<String>(getApplicationContext(),
-						R.layout.activity_list_item, R.id.tv_ListItem,
-						propertys);
+					adapter = new ArrayAdapter<String>(getApplicationContext(),
+							R.layout.activity_list_item, R.id.tv_ListItem,
+							propertys);
 
-				propertyListView.setAdapter(adapter);
-				adapter.notifyDataSetChanged();
-				propertyListView
-						.setOnItemClickListener(new OnItemClickListener() {
+					propertyListView.setAdapter(adapter);
+					adapter.notifyDataSetChanged();
+					propertyListView
+							.setOnItemClickListener(new OnItemClickListener() {
 
-							@Override
-							public void onItemClick(AdapterView<?> parent,
-									View view, int position, long id) {
+								@Override
+								public void onItemClick(AdapterView<?> parent,
+														View view, int position, long id) {
 
-								User user=new User();
-								user.userId=LocalStore.getUserInfo().userId;
-								user.userName=LocalStore.getUserInfo().userName;
-								user.PropertyID=(int) mList.get(position).PropertyID;
-								LocalStore.setUserInfo(LocationPropertyListActivity.this, user);
-								
-								Log.i("MyLog", "当前的小区idshi"+LocalStore.getUserInfo().PropertyID);
+									User user=new User();
+									user.userId=LocalStore.getUserInfo().userId;
+									user.userName=LocalStore.getUserInfo().userName;
+									user.PropertyID=(int) mList.get(position).PropertyID;
+									LocalStore.setUserInfo(LocationPropertyListActivity.this, user);
+
+									Log.i("MyLog", "当前的小区idshi"+LocalStore.getUserInfo().PropertyID);
 									Intent intent2 = new Intent();
 									intent2.setClass(
 											LocationPropertyListActivity.this,
@@ -99,27 +99,27 @@ public class LocationPropertyListActivity extends BaseActivity {
 									finish();
 //								}
 
-							}
-						});
-				break;
+								}
+							});
+					break;
 
-			// 通讯错误
-			case 3:
-				// propertysList = mThread.getPropertyList();
-				Intent intent2 = new Intent();
-				intent2.putExtra("key", propertysList);
-				if (propertysList.size() != 0) {
-					intent2.setClass(LocationPropertyListActivity.this,
-							LocationPropertyListActivity.class);
-				} else {
-					intent2.setClass(LocationPropertyListActivity.this,
-							NoPropertyActivity.class);
-				}
-				startActivity(intent2);
-				break;
+				// 通讯错误
+				case 3:
+					// propertysList = mThread.getPropertyList();
+					Intent intent2 = new Intent();
+					intent2.putExtra("key", propertysList);
+					if (propertysList.size() != 0) {
+						intent2.setClass(LocationPropertyListActivity.this,
+								LocationPropertyListActivity.class);
+					} else {
+						intent2.setClass(LocationPropertyListActivity.this,
+								NoPropertyActivity.class);
+					}
+					startActivity(intent2);
+					break;
 
-			default:
-				break;
+				default:
+					break;
 			}
 			super.handleMessage(msg);
 		}
@@ -158,20 +158,20 @@ public class LocationPropertyListActivity extends BaseActivity {
 
 				@Override
 				public void onItemClick(AdapterView<?> parent, View view,
-						int position, long id) {
+										int position, long id) {
 
 					User user=new User();
 					user.userId=LocalStore.getUserInfo().userId;
 					user.userName=LocalStore.getUserInfo().userName;
 					user.PropertyID=(int) mList.get(position).PropertyID;
 					LocalStore.setUserInfo(LocationPropertyListActivity.this, user);
-					
+
 					Log.i("MyLog", "当前的小区idshi"+LocalStore.getUserInfo().PropertyID);
-						Intent intent2 = new Intent();
-						intent2.setClass(LocationPropertyListActivity.this,
-								RegisterActivity.class);
-						startActivity(intent2);
-						finish();
+					Intent intent2 = new Intent();
+					intent2.setClass(LocationPropertyListActivity.this,
+							RegisterActivity.class);
+					startActivity(intent2);
+					finish();
 //					}
 
 				}
@@ -182,7 +182,7 @@ public class LocationPropertyListActivity extends BaseActivity {
 
 				@Override
 				public void onScrollStateChanged(AbsListView view,
-						int scrollState) {
+												 int scrollState) {
 					if (isBottom
 							&& scrollState == OnScrollListener.SCROLL_STATE_IDLE
 							&& pageIndex <= pageCount) {
@@ -207,7 +207,7 @@ public class LocationPropertyListActivity extends BaseActivity {
 
 				@Override
 				public void onScroll(AbsListView view, int firstVisibleItem,
-						int visibleItemCount, int totalItemCount) {
+									 int visibleItemCount, int totalItemCount) {
 
 					if (firstVisibleItem + visibleItemCount == totalItemCount) {
 						isBottom = true;
@@ -216,7 +216,7 @@ public class LocationPropertyListActivity extends BaseActivity {
 			});
 		}
 	}
-	
+
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
 		// TODO Auto-generated method stub

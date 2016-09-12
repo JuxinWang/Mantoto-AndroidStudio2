@@ -94,6 +94,7 @@
         android:layout_height="wrap_content"
         android:gravity="right"
         android:layout_marginBottom="5dp"
+        android:visibility="gone"
         >
       <Button
             android:id="@+id/user_address_get"

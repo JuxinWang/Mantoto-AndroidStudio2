@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="330dp"
+    android:id="@+id/mItemBackground"
+    android:gravity="center_vertical"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_marginLeft="17dp"
+    android:layout_marginRight="17dp"
+    >
+
+
+    <ImageView
+        android:id="@+id/canyinImg"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/peisong"
+        android:visibility="visible"
+        android:scaleType="fitXY"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="vertical"
+        android:layout_marginBottom="2dp"
+        >
+        <TextView
+            android:id="@+id/canyin_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="2dp"
+            android:text="标题"
+            android:maxLines="1"
+            android:textColor="@color/base_color_text_black"
+            android:textSize="16sp" >
+        </TextView>
+        <TextView
+            android:layout_marginTop="2dp"
+            android:id="@+id/canyin_desc"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="自己描述"
+            android:maxLines="2"
+            android:textColor="@color/base_color_text_black"
+            android:textSize="14sp" >
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="2dp"
+            >
+            <TextView
+                android:id="@+id/canyin_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="价格"
+                android:textColor="@color/primary"
+                android:textSize="16sp" >
+            </TextView>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                />
+           <!-- <Button
+                android:id="@+id/goumaiImg"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="购买"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:background="@color/primary"
+                android:layout_marginRight="10dp"
+                android:focusable="false"
+                android:visibility="gone"
+                />
+            <ImageView
+                android:id="@+id/goumai"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="购   买"
+                android:textColor="@color/white"
+                android:background="@drawable/btn_download_normal"
+                android:visibility="gone" />
+-->
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="4dp"/>
+</LinearLayout>

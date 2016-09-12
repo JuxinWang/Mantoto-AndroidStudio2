@@ -365,4 +365,6 @@
     <!-- 新加用户个人信息-->
     <string name="user_age">请您选择年龄段</string>
     <string name="user_gender">请您选择性别</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

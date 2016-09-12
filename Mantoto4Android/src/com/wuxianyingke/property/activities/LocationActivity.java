@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -37,12 +38,12 @@ import com.wuxianyingke.property.threads.GetPropertyByNameListThread;
 import com.wuxianyingke.property.threads.GetPropertyListThread;
 
 /***
- * 通过定位查找获得小区
+ * 通过定位、查询得小区
  */
 public class LocationActivity extends BaseActivity {
 
 	private View TopbarView;
-	private TextView topbar_txt, topbar_right, remind;
+	private TextView topbar_txt, topRightTxt, remind;
 	private Button topbar_left;
 	private ImageButton clear;
 
@@ -80,56 +81,56 @@ public class LocationActivity extends BaseActivity {
 				mProgressBar = null;
 			}
 			switch (msg.what) {
-			// 查找小区
-			case Constants.MSG_GET_PRODUCT_LIST_FINISH:
-				propertysList = mByNameThread.getPropertyList();
-				Log.i("MyLog", "当前小区信息为-----" + propertysList);
+				// 查找小区
+				case Constants.MSG_GET_PRODUCT_LIST_FINISH:
+					propertysList = mByNameThread.getPropertyList();
+					Log.i("MyLog", "当前小区信息为-----" + propertysList);
 				/*
 				 * llRemindMessage.setVisibility(View.GONE);
 				 * llLocation.setVisibility(View.GONE);
 				 * llFindName.setVisibility(View.GONE);
 				 * mListView.setVisibility(View.VISIBLE);
 				 */
-				Intent intent = new Intent();
-				intent.putExtra("key", propertysList);
-				intent.putExtra("et_InputContent", et_Input.getText().toString());
-				if (propertysList.size()!=0) {
-					intent.setClass(LocationActivity.this,
-							PropertyListActivity.class);
-				}else {
-					intent.setClass(LocationActivity.this, NoPropertyActivity.class);
-				}
-				startActivity(intent);
-				finish();
-				break;
+					Intent intent = new Intent();
+					intent.putExtra("key", propertysList);
+					intent.putExtra("et_InputContent", et_Input.getText().toString());
+					if (propertysList.size()!=0) {
+						intent.setClass(LocationActivity.this,
+								PropertyListActivity.class);
+					}else {
+						intent.setClass(LocationActivity.this, NoPropertyActivity.class);
+					}
+					startActivity(intent);
+					finish();
+					break;
 
-			case 2:
-				//定位得到小区列表
-				propertysList = mThread.getPropertyList();
-				Intent intent2 = new Intent();
-				intent2.putExtra("key", propertysList);
-				intent2.putExtra("latitude", latitude);
-				intent2.putExtra("longitude", longitude);
-				if (propertysList.size()!=0) {
-					intent2.setClass(LocationActivity.this,
-							LocationPropertyListActivity.class);
-				}else {
-					intent2.setClass(LocationActivity.this,
-							NoPropertyActivity.class);
-				}
-				startActivity(intent2);
-				finish();
-				break;
-			case 3:
-				Toast.makeText(LocationActivity.this, "附近暂无小区，请输入小区名称查找！",
-						Toast.LENGTH_LONG).show();
-				break;
-			case 9:
-				Toast.makeText(LocationActivity.this, "网络超时，请重新获取",
-						Toast.LENGTH_SHORT).show();
-				break;
-			default:
-				break;
+				case 2:
+					//定位得到小区列表
+					propertysList = mThread.getPropertyList();
+					Intent intent2 = new Intent();
+					intent2.putExtra("key", propertysList);
+					intent2.putExtra("latitude", latitude);
+					intent2.putExtra("longitude", longitude);
+					if (propertysList.size()!=0) {
+						intent2.setClass(LocationActivity.this,
+								LocationPropertyListActivity.class);
+					}else {
+						intent2.setClass(LocationActivity.this,
+								NoPropertyActivity.class);
+					}
+					startActivity(intent2);
+					finish();
+					break;
+				case 3:
+					Toast.makeText(LocationActivity.this, "附近暂无小区，请输入小区名称查找！",
+							Toast.LENGTH_LONG).show();
+					break;
+				case 9:
+					Toast.makeText(LocationActivity.this, "网络超时，请重新获取",
+							Toast.LENGTH_SHORT).show();
+					break;
+				default:
+					break;
 			}
 			super.handleMessage(msg);
 		}
@@ -157,30 +158,30 @@ public class LocationActivity extends BaseActivity {
 		 * 处理点击事件
 		 */
 		initListening();
-		
 
-		
-		et_Input.setOnFocusChangeListener(new OnFocusChangeListener() {
-			
+		Intent intent = getIntent();
+		final String key =  intent.getStringExtra("key");
+		final String local= intent.getStringExtra("et_InputContent");
+		btn_Loacation.setText(local);
+		topRightTxt.setOnClickListener(new OnClickListener() {
 			@Override
-			public void onFocusChange(View arg0, boolean arg1) {
-				String hint;
-				if (arg1) {
-					hint=et_Input.getHint().toString();
-					et_Input.setTag(hint);
-					et_Input.setHint("");
-				}else {
-					hint=et_Input.getTag().toString();
-					et_Input.setHint(hint);
-				}
-				
+			public void onClick(View view) {
+				Intent intent2 = getIntent();
+				intent2.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT
+						| Intent.FLAG_ACTIVITY_CLEAR_TOP);
+				intent2.putExtra("key2", key);
+				intent2.putExtra("et_InputContent2",local);
+				intent2.setClass(LocationActivity.this,SetMessageActivity.class);
+				startActivity(intent2);
 			}
 		});
+
+
 	}
 
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
-		
+
 		initWidgets();
 		Intent intent=new Intent();
 		intent.setClass(LocationActivity.this, SetMessageActivity.class);
@@ -204,13 +205,13 @@ public class LocationActivity extends BaseActivity {
 						.parseFloat("" + info.longitude);
 				Log.i("MyLog", "当前的定位信息为：---->" + mPageIndex + "经纬度："
 						+ info.latitude + ":" + info.longitude);
-				
+
 				mThread = new GetPropertyListThread(LocationActivity.this,
 						mHandler, latitude, longitude, mPageIndex);
 				Log.i("MyLog", "response=Location="+latitude+"  "+longitude+"  "+mPageIndex);
 				btn_Loacation.setEnabled(false);
 				mThread.start();
-			
+
 			}
 		});
 		//点击查询小区
@@ -218,11 +219,34 @@ public class LocationActivity extends BaseActivity {
 
 			@Override
 			public void onClick(View v) {
+
+				Intent intent = new Intent();
+				intent.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT
+						| Intent.FLAG_ACTIVITY_CLEAR_TOP);
+				intent.setClass(getApplicationContext(),SearchPlotActivity.class);
+				startActivity(intent);
 				// 提交查询小区的名称
-				propertyNameSend();
-				
+				//propertyNameSend();
+
 			}
 
+		});
+
+		et_Input.setOnFocusChangeListener(new OnFocusChangeListener() {
+
+			@Override
+			public void onFocusChange(View arg0, boolean arg1) {
+				String hint;
+				if (arg1) {
+					hint=et_Input.getHint().toString();
+					et_Input.setTag(hint);
+					et_Input.setHint("");
+				}else {
+					hint=et_Input.getTag().toString();
+					et_Input.setHint(hint);
+				}
+
+			}
 		});
 
 	}
@@ -268,9 +292,15 @@ public class LocationActivity extends BaseActivity {
 		topbar_txt.setText("小区管理");
 		topbar_txt.setTextSize(18);
 
+		topRightTxt = (TextView) findViewById(R.id.topbar_right);
+		topRightTxt.setVisibility(View.VISIBLE);
+		topRightTxt.setText("保存");
+		topRightTxt.setTextColor(Color.rgb(255,165,0));
+
 
 		remind = (TextView) findViewById(R.id.tv_RemindMessage);//上方提示语
 		btn_Loacation = (Button) findViewById(R.id.Location_Neborhood);// 定位
+
 		btn_Find = (Button) findViewById(R.id.Find_Neborhood);// 查找
 		et_Input = (EditText) findViewById(R.id.et_InputNeiborhoodNameId);// 输入模糊小区(门牌号)
 		/*
@@ -285,6 +315,7 @@ public class LocationActivity extends BaseActivity {
 		 * llEditText.setVisibility(View.VISIBLE);
 		 * llFindName.setVisibility(View.VISIBLE);
 		 */
+
 	}
 
 	// 提交查询小区的名称

@@ -6,9 +6,11 @@ import android.os.Handler;
 import android.os.Message;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.TextView;
 
 import com.mantoto.property.R;
 import com.wuxianyingke.property.adapter.TestAdapter;
@@ -17,11 +19,13 @@ import com.wuxianyingke.property.threads.GetCanyinOwnListThread;
 
 import java.util.ArrayList;
 
-public class TestActivity extends Activity {
+public class TestActivity extends BaseActivity {
     private GridView girdView;
     private TestAdapter testAdapter;
     private int mLivingItemID = 0;
     private ImageView canyinImg;
+    private TextView topTxt;
+    private Button topLeft;
 
     private GetCanyinOwnListThread mOwnListThread = null;
     private ArrayList<ImageView> activityImgList = new ArrayList<ImageView>();
@@ -48,6 +52,7 @@ public class TestActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
+        initView();
         girdView = (GridView) findViewById(R.id.testlist);
         girdView.setNumColumns(2);
         canyinImg = (ImageView)findViewById(R.id.canyinImg);
@@ -63,5 +68,19 @@ public class TestActivity extends Activity {
                 mLivingItemID);
         mOwnListThread.start();
 
+    }
+
+    private void initView() {
+        topLeft = (Button) findViewById(R.id.topbar_left);
+        topTxt = (TextView) findViewById(R.id.topbar_txt);
+        topLeft.setVisibility(View.VISIBLE);
+        topTxt.setVisibility(View.VISIBLE);
+        topLeft.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
+        topTxt.setText("商家商品");
     }
 }

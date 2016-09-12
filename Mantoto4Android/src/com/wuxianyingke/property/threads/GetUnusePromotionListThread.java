@@ -20,7 +20,7 @@ public class GetUnusePromotionListThread extends Thread {
 	private long userid;
 	private int pageIndex;
 	private boolean running = true;
-	public ArrayList<OrderItem>mOrders;
+	public ArrayList<OrderItem> mOrders;
 
 	public GetUnusePromotionListThread(Context mContext, Handler mHandler, long userid,
 			int pageIndex) {

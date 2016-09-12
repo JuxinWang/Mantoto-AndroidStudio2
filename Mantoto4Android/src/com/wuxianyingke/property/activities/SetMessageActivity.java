@@ -31,7 +31,7 @@ import java.io.FileOutputStream;
 
 public class SetMessageActivity extends BaseActivity {
     // 顶部导航
-    private TextView topbar_txt,topbar_right;
+    private TextView topbar_txt,topbar_right,plotTextView;
     private Spinner spinnerArrowAge;
     private Button topbar_left;
     private int favorite_flag;
@@ -62,17 +62,23 @@ public class SetMessageActivity extends BaseActivity {
         setImmerseLayout(findViewById(R.id.common_back));
         initwidget();
 
-
+        Intent intent = getIntent();
+        intent.getStringExtra("key2");
+        String plot = intent.getStringExtra("et_InputContent2");
+        plotTextView.setText(plot);
         topbar_right.setOnClickListener(new View.OnClickListener(){
 
             @Override
             public void onClick(View v) {
-                /*Intent mIntent = new Intent(SetMessageActivity.this,UserCenterActivity.class);
-                mIntent.putExtra("gender",personalTxtGender.getText().toString());
-                mIntent.putExtra("age",personalTxtAge.getText().toString());
+                Intent mIntent = new Intent(SetMessageActivity.this,UserCenterActivity.class);
+
+              /*  mIntent.putExtra("gender",personalTxtGender.getText().toString());
+                mIntent.putExtra("age",personalTxtAge.getText().toString());*/
+                mIntent.putExtra("plot",plotTextView.getText().toString());
                 //设置结果并进行传送
-                SetMessageActivity.this.setResult(RESULT_OK,mIntent);
-*/
+                //SetMessageActivity.this.setResult(RESULT_OK,mIntent);
+                startActivity(mIntent);
+                Toast.makeText(getApplicationContext(),"保存成功",Toast.LENGTH_SHORT);
             }
 
 
@@ -93,7 +99,7 @@ public class SetMessageActivity extends BaseActivity {
         topbar_right.setTextColor(Color.rgb(255,165,0));
         personalTxtGender = (TextView) findViewById(R.id.personal_txt_gender);
         personalTxtAge = (TextView) findViewById(R.id.personal_txt_age);
-
+        plotTextView = (TextView) findViewById(R.id.personal_txt_plotcontrol);
 
         //--中间标题
         topbar_txt.setText("个人信息");
@@ -102,8 +108,8 @@ public class SetMessageActivity extends BaseActivity {
 
             @Override
             public void onClick(View v) {
-                 // TODO Auto-generated method stub
-                 if (0 != favorite_flag) {
+                // TODO Auto-generated method stub
+                if (0 != favorite_flag) {
                     Intent intent = new Intent();
                     intent.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT
                             | Intent.FLAG_ACTIVITY_CLEAR_TOP);
@@ -225,7 +231,7 @@ public class SetMessageActivity extends BaseActivity {
                 && TextUtils
                 .isEmpty(personalTxtGender.getText().toString().trim())
                 && TextUtils.isEmpty(personalTxtPlotcontrol.getText().toString().trim())
-               ) {
+                ) {
             SetMessageActivity.this.finish();
         } else {
             new AlertDialog.Builder(SetMessageActivity.this)

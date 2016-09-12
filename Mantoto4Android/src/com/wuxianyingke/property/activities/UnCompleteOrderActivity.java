@@ -1,3 +1,4 @@
+/*
 package com.wuxianyingke.property.activities;
 
 import java.util.ArrayList;
@@ -30,9 +31,11 @@ import com.wuxianyingke.property.common.LogUtil;
 import com.wuxianyingke.property.remote.RemoteApi.OrderItem;
 import com.wuxianyingke.property.threads.GetUnOrderListThread;
 import com.wuxianyingke.property.threads.MessageOutBoxThread;
+*/
 /**
  * 未完成订单
- */
+ *//*
+
 public class UnCompleteOrderActivity extends BaseActivity {
 
 	private ProgressDialog mProgressDialog = null;
@@ -346,3 +349,4 @@ public class UnCompleteOrderActivity extends BaseActivity {
 		mThread.start();
 	}
 }
+*/

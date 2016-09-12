@@ -28,6 +28,7 @@
             android:background="@color/white"
             android:paddingLeft="10dp"
             android:hint="输入小区名称"
+            android:maxLines="1"
             />
         <View
             android:layout_width="1dp"
@@ -47,26 +48,27 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="20dp"/>
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:background="@drawable/list_line"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/white"
-        >
-    <ListView
-        android:id="@+id/plot_list"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:divider="@drawable/list_line"
         android:layout_marginLeft="17dp"
         android:layout_marginRight="17dp"
-        android:fadeScrollbars="true"
         >
+        <ListView
+            android:id="@+id/plot_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
 
-    </ListView>
-        </LinearLayout>
+            android:fadeScrollbars="true"
+            android:cacheColorHint="#00000000"
+            android:divider="@drawable/list_line"
+            android:background="@color/white"
+            android:fadingEdge="none"
+            android:listSelector="#00000000"
+            >
+
+        </ListView>
+    </LinearLayout>
 
 </LinearLayout>

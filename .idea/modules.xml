@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mantoto-AndroidStudio.iml" filepath="$PROJECT_DIR$/Mantoto-AndroidStudio.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mantoto4Android/Mantoto4Android.iml" filepath="$PROJECT_DIR$/Mantoto4Android/Mantoto4Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator/ViewPagerIndicator.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator/ViewPagerIndicator.iml" />
     </modules>
   </component>
 </project>

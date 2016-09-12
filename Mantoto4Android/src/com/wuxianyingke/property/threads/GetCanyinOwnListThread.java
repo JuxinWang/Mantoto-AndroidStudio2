@@ -11,6 +11,7 @@ import android.util.Log;
 
 import com.wuxianyingke.property.common.Constants;
 import com.wuxianyingke.property.common.Util;
+import com.wuxianyingke.property.remote.RemoteApi;
 import com.wuxianyingke.property.remote.RemoteApi.LivingItemPictureInfo;
 import com.wuxianyingke.property.remote.RemoteApi.PromotionList;
 import com.wuxianyingke.property.remote.RemoteApiImpl;
@@ -19,7 +20,10 @@ public class GetCanyinOwnListThread extends Thread {
 
 	private Context mContext;
 	private Handler mHandler;
-	private PromotionList mActivityItem;
+	private PromotionList mAllItem;
+	private PromotionList mActivityItem;//商家活动
+	private PromotionList mPromotionItem;//团购
+
 	private PromotionList mProductItem;
 	private LivingItemPictureInfo mLivingItemPictureInfo;
 	private boolean isRuning = true;
@@ -53,7 +57,10 @@ public class GetCanyinOwnListThread extends Thread {
 	}
 	public PromotionList getActivityDetail() {
 		return mActivityItem;
-	}
+	}//商家活动
+	public PromotionList getPromotionDetail() {
+		return mPromotionItem;
+	}//商品劵
 	public Drawable getDrawable(int id) {
 		return imgDwList.get(id);
 	}
@@ -65,8 +72,27 @@ public class GetCanyinOwnListThread extends Thread {
 		RemoteApiImpl rai = new RemoteApiImpl();
 		//商品列表
 		mProductItem = rai.getProductByLivingItemId(mContext, fleaid);
-		//商品活动
-		mActivityItem = rai.getActicityByLivingItemId(mContext, fleaid);
+		//商品活动、商家劵
+		mAllItem = rai.getActicityByLivingItemId(mContext, fleaid);
+
+		mActivityItem = new PromotionList();//商家活动
+		mActivityItem.netInfo = mAllItem.netInfo;
+		mActivityItem.promotionList = new ArrayList<RemoteApi.Promotion>();
+
+		mPromotionItem = new PromotionList();//商家劵
+		mPromotionItem.netInfo = mAllItem.netInfo;
+		mPromotionItem.promotionList = new ArrayList<RemoteApi.Promotion>();
+
+
+
+		for (RemoteApi.Promotion promotion: mAllItem.promotionList ) {
+			if(promotion.PromotionTypeID == 2){
+				mActivityItem.promotionList.add(promotion);
+			}else{
+				mPromotionItem.promotionList.add(promotion);
+			}
+		}
+
 		if (!isRuning)
 			return;
 		if (mProductItem != null ) {

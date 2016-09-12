@@ -73,7 +73,7 @@ public class CanyinOwnDetailActivity extends BaseActivity implements View.OnClic
     private int favorite_flag;
     private String source = "";
 
-    private LinearLayout shopGoods,shopActivity,shopCoupon;
+    private LinearLayout shopGoods,shopActivity,shopCoupons;
 
 
 
@@ -165,6 +165,12 @@ public class CanyinOwnDetailActivity extends BaseActivity implements View.OnClic
         topbar_left.setVisibility(View.VISIBLE);
         topbar_right = (Button) findViewById(R.id.topbar_button_right) ;
         topbar_right.setVisibility(View.VISIBLE);
+        topbar_left.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
         LivingDB db = new LivingDB(this);
         shoucangStatus=db.getOneItem(mLivingItemID);
         db.close();
@@ -241,9 +247,9 @@ public class CanyinOwnDetailActivity extends BaseActivity implements View.OnClic
         LianxiButton = (Button) findViewById(R.id.LianxiButton) ;
         dizhiImg = (ImageView) findViewById(R.id.dizhiImg);//小标记
         shopGoods = (LinearLayout) findViewById(R.id.shop_goods);//商家商品
-        shopCoupon = (LinearLayout) findViewById(R.id.shop_coupon);//商家劵
+        shopCoupons = (LinearLayout) findViewById(R.id.shangjiaquan);//商家劵
         shopActivity = (LinearLayout) findViewById(R.id.shop_activity);//商家活动
-
+        //商家活动
         shopActivity.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -255,19 +261,20 @@ public class CanyinOwnDetailActivity extends BaseActivity implements View.OnClic
                 startActivity(intent);
             }
         });
-
-        /*shopCoupon.setOnClickListener(new View.OnClickListener() {
+        //商家券
+        shopCoupons.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent();
                 intent.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT
                 |Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                intent.putExtra(Constants.CANYIN_ID_ACTION, mLivingItemID);
 
-                intent.setClass(CanyinOwnDetailActivity.this,GoodsCauponListActivity.class);
+                intent.setClass(CanyinOwnDetailActivity.this,ShopCouponsActivity.class);
                 startActivity(intent);
 
             }
-        });*/
+        });
         //商家商品
         shopGoods.setOnClickListener(new View.OnClickListener() {
             @Override

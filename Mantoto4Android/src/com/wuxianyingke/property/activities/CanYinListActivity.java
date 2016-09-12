@@ -106,7 +106,8 @@ public class CanYinListActivity extends BaseActivity{
 
 					}else{
 						((TextView) findViewById(R.id.empty_tv)).setVisibility(View.GONE);
-					     showLogsListView(mThread.getProductList());
+						if (mThread.getProductList()!=null)
+						showLogsListView(mThread.getProductList());
 					}
 				break;
 			//搜索结果为空

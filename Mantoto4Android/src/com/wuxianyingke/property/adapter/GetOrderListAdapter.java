@@ -54,18 +54,18 @@ public class GetOrderListAdapter extends BaseAdapter {
 		this.orderItems = orderItems;
 		this.flags=flags;
 	}
-	
+
 	public void onDataChanger(List<OrderItem> list){
 		this.orderItems=list;
 		this.notifyDataSetInvalidated();
 	}
-	
+
 	public void addNewData(ArrayList<OrderItem> orderItems){
 		orderItems.addAll(orderItems);
 		notifyDataSetChanged();
 	}
-	
-	public void appandAdapter(ArrayList<OrderItem> list) //每次滑动获取的数据都追加进来，页数加1
+
+	public void appandAdapter(ArrayList<OrderItem> list)
 	{
 		for(int i=0; i<list.size(); i++)
 		{
@@ -77,13 +77,13 @@ public class GetOrderListAdapter extends BaseAdapter {
 		mStoped = true;
 		for (int i = 0; i < orderItems.size(); i++) {
 			BitmapDrawable a = (BitmapDrawable) orderItems.get(i).imgDw;
-			if (a != null && !a.getBitmap().isRecycled())//回收释放资源
+			if (a != null && !a.getBitmap().isRecycled())
 				a.getBitmap().recycle();
 			orderItems.get(i).imgDw = null;
 		}
 		System.gc();
 	}
-	
+
 	public void setIsOnEdit(boolean isOnEdit)
 	{
 		mIsOnEdit = isOnEdit;
@@ -101,13 +101,13 @@ public class GetOrderListAdapter extends BaseAdapter {
 
 	@Override
 	public Object getItem(int position) {
-		
+
 		return orderItems.get(position);//返回指定数据源位置的对象
 	}
 
 	@Override
 	public long getItemId(int position) {
-		
+
 		return position;
 	}
 
@@ -121,17 +121,14 @@ public class GetOrderListAdapter extends BaseAdapter {
 		if (convertView == null) { // 创建新的itemView
 			convertView = LayoutInflater.from(mContext).inflate(
 					R.layout.discount_list_item, null); // 加载item布局并生成View对象
-			
+
 			vHolder = new ViewHolder();
 			vHolder.body = (TextView) convertView.findViewById(R.id.tv_goodId);
-			vHolder.Ctime = (TextView) convertView.findViewById(R.id.tv_Ctime);
+			vHolder.total = (TextView) convertView.findViewById(R.id.tv_TotalPriceId);
 			vHolder.number = (TextView) convertView.findViewById(R.id.tv_NumberId);
 			vHolder.imageView = (ImageView) convertView.findViewById(R.id.image_NameId);
-			//vHolder.orderNumber = (TextView) convertView.findViewById(R.id.tv_PriceId);
 
-			vHolder.status = (TextView) convertView.findViewById(R.id.tv_PriceId);
-			vHolder.mRelativeLayout= (LinearLayout) convertView.findViewById(R.id.ItemRelativeLayout);
-			vHolder.couponCodeDetails = (TextView) convertView.findViewById(R.id.coupon_code_detail);
+			vHolder.mRelativeLayout=(LinearLayout)convertView.findViewById(R.id.ItemRelativeLayout);
 			convertView.setTag(vHolder);
 		} else { // 复用ListView滚出屏幕的itemView
 
@@ -141,16 +138,12 @@ public class GetOrderListAdapter extends BaseAdapter {
 		vHolder.body.setText(orderItems.get(position).ThePromotion.header);
 //		String body=orderItems.get(position).ThePromotion.header;
 //		Log.i("MyLog", "imageUrl---------------------------------->"+body);
-		String CTime=items.Ctime;
-		SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-		String date=sdf.format(new Date(Long.parseLong(CTime)));
-		vHolder.Ctime.setText(""+date);
+	//	vHolder.total.setText(""+orderItems.get(position).Total);空指针
 		vHolder.number.setText(""+orderItems.get(position).Number);
-		//vHolder.orderNumber.setText(""+orderItems.get(position).OrderID);
-		vHolder.status.setText(""+orderItems.get(position).Status);
+
 		String url = orderItems.get(position).ThePromotion.path;
 //		Log.i("MyLog", "imageUrl---------------------------------->"+url);
-		
+
 		if(url==null){
 			vHolder.imageView.setImageResource(R.drawable.login_top);
 		}else{
@@ -168,8 +161,8 @@ public class GetOrderListAdapter extends BaseAdapter {
 			}
 		}
 
-		vHolder.couponCodeDetails.setOnClickListener(new OnClickListener() {
-			
+		/*vHolder.mRelativeLayout.setOnClickListener(new OnClickListener() {
+
 			@Override
 			public void onClick(View arg0) {
 				if(flags==5){
@@ -191,35 +184,35 @@ public class GetOrderListAdapter extends BaseAdapter {
 					intent.addFlags(intent.FLAG_ACTIVITY_NEW_TASK);
 					mContext.startActivity(intent);
 				}else{
-				String CTime=items.Ctime;
-				SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-				String date=sdf.format(new Date(Long.parseLong(CTime)));
-				Intent intent = new Intent(mContext, CommitVoucherContentDetailsActivity.class);
-				intent.putExtra("header", items.ThePromotion.header);
-				intent.putExtra("body", items.ThePromotion.body);
-				intent.putExtra("price", items.ThePromotion.Price);
-				intent.putExtra("OrderID", items.OrderID);
-				intent.putExtra("Number", items.Number);
-				intent.putExtra("CTime", date);
-				intent.putExtra("ordersequencenumber", items.OrderSequenceNumber);
-				intent.putExtra("Total", items.Total);
-				intent.putExtra("TelNumber", items.TelNumber);
-				intent.putExtra("path", items.ThePromotion.path);
-				intent.putExtra("flag", 2);
-				//用于对实物和券码进行判断
-				intent.putExtra("SaleTypeID", items.ThePromotion.SaleTypeID);
-				if(flags==0){
-				intent.putExtra("OrderStatusID",items.Status.OrderStatusID);}
-				intent.addFlags(intent.FLAG_ACTIVITY_NEW_TASK);
-				mContext.startActivity(intent);
+					String CTime=items.Ctime;
+					SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+					String date=sdf.format(new Date(Long.parseLong(CTime)));
+					Intent intent = new Intent(mContext, CommitVoucherContentDetailsActivity.class);
+					intent.putExtra("header", items.ThePromotion.header);
+					intent.putExtra("body", items.ThePromotion.body);
+					intent.putExtra("price", items.ThePromotion.Price);
+					intent.putExtra("OrderID", items.OrderID);
+					intent.putExtra("Number", items.Number);
+					intent.putExtra("CTime", date);
+					intent.putExtra("ordersequencenumber", items.OrderSequenceNumber);
+					intent.putExtra("Total", items.Total);
+					intent.putExtra("TelNumber", items.TelNumber);
+					intent.putExtra("path", items.ThePromotion.path);
+					intent.putExtra("flag", 2);
+					//用于对实物和券码进行判断
+					intent.putExtra("SaleTypeID", items.ThePromotion.SaleTypeID);
+					if(flags==0){
+						intent.putExtra("OrderStatusID",items.Status.OrderStatusID);}
+					intent.addFlags(intent.FLAG_ACTIVITY_NEW_TASK);
+					mContext.startActivity(intent);
 				}
 			}
-		});
+		});*/
 
 		return convertView;
 	}
-	
-	
+
+
 	public void download(final String url) {
 
 		// 将网络请求处理的Runnable增加到线程池中
@@ -236,7 +229,7 @@ public class GetOrderListAdapter extends BaseAdapter {
 						byte[] bytes = EntityUtils.toByteArray(response
 								.getEntity());
 						//保存图片到本地
-							SDCardUtils.saveImage(url, bytes);
+						SDCardUtils.saveImage(url, bytes);
 					}
 
 				} catch (Exception e) {
@@ -245,16 +238,14 @@ public class GetOrderListAdapter extends BaseAdapter {
 			}
 		});
 	}
-	
+
 	class ViewHolder {
 		public TextView body; // 标题
 		public ImageView imageView; // 图片
-		public TextView Ctime; //订单时间
+		public TextView total; //总价
 		public TextView number; //数量
-		public  TextView orderNumber;//订单序号
-		public  TextView status;//订单状态
+
 		public LinearLayout mRelativeLayout;
-		public TextView couponCodeDetails;
 	}
 
 }

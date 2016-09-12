@@ -22,7 +22,7 @@ public class GetPromotionCodeThread extends Thread {
 	public ArrayList<PromotionCode> mPromotionCode;
 
 	public GetPromotionCodeThread(Context mContext, Handler mHandler,
-			long ordersequencenumber) {
+								  long ordersequencenumber) {
 		super();
 		this.mContext = mContext;
 		this.mHandler = mHandler;

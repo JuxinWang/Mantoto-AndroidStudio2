@@ -1,5 +1,6 @@
 package com.wuxianyingke.property.adapter;
 
+import java.text.DecimalFormat;
 import java.util.List;
 
 import android.content.Context;
@@ -133,6 +134,7 @@ public class CanYinListAdapter extends BaseAdapter {
 //			productItem.mItemBackground
 //					.setBackgroundResource(R.drawable.style_item_center);
 
+
 		if (info.FrontCover.imgDw == null)
 			productItem.mIcon.setImageResource(R.drawable.login_top);
 		else
@@ -158,27 +160,30 @@ public class CanYinListAdapter extends BaseAdapter {
 			productItem.mHui.setImageResource(R.drawable.hui);
 			productItem.mHui.setVisibility(View.VISIBLE);
 		}
-		else
+		else {
 			productItem.mHui.setVisibility(View.GONE);
+		}
 
+		Boolean ForExpress =info.ForExpress;
+		if (ForExpress)
+			productItem.mPeiSong.setVisibility(View.VISIBLE);
+		else {
+			productItem.mPeiSong.setVisibility(View.GONE);
+		}
 
-	/*
-	这样写运行结果默认都支持派送
-	if(info.ForExpress=true){
+	/*if(info.ForExpress){
 			productItem.mPeiSong.setImageResource(R.drawable.support_distribution);
 			productItem.mPeiSong.setVisibility(View.VISIBLE);
-		}
-		else
-			productItem.mPeiSong.setVisibility(View.GONE);
+		}else {
+		productItem.mPeiSong.setVisibility(View.GONE);
+	}
 */
-
-
 		productItem.mName.setText(info.LivingItemName);
 		productItem.mLeixing.setText(info.categories);
 		productItem.mDizhi.setText(info.address);
-		
-		//productItem.mRenjun.setText("￥:"+info.avg_price+"/人");
-		productItem.mRenjun.setText("");
+		productItem.mRenjun.setText("￥:"+String.valueOf(info.avg_price)+"/人");
+		Log.d("MyTags",info.ForExpress+"++++++++hahahhahahhahahhha++++++++++express");
+		Log.i("MyTags",info.ForExpress+"++++++++hahahhahahhahahhha++++++++++express");
 		Log.d("MyTag","CanYinListAdapter--info.distance="+info.distance);
 		Log.d("MyTag","productItem.mJuli="+productItem.mJuli);
 		if(info.distance<=999){

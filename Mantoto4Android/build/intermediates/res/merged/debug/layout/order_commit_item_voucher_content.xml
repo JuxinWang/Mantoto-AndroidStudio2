@@ -59,7 +59,7 @@
             android:layout_below="@id/tv_goodId"
             android:layout_toRightOf="@id/image_NameId"
             android:singleLine="true"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             android:text="东来顺秘制小料，你值得拥有---"
             android:textColor="@color/gray"
             android:textSize="14sp" />
@@ -71,23 +71,13 @@
             android:layout_below="@id/tv_TotalPriceId"
             android:layout_toRightOf="@id/image_NameId"
             android:text="￥40"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             android:textColor="@color/blue"
             android:textSize="14sp"
             android:paddingBottom="0dp"
             android:layout_alignBottom="@id/image_NameId"
             />
-          <TextView
-            android:id="@+id/tv_refund"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/tv_PriceId"
-            android:layout_marginRight="20dp"
-            android:layout_alignParentRight="true"
-            android:text="申请退款"
-            android:visibility="gone"
-            android:textColor="@color/blue"
-            android:textSize="16sp" />
+
     </RelativeLayout>
     </LinearLayout>
     <LinearLayout
@@ -132,7 +122,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:text="下单时间："
+                android:text="下单时间"
                 android:textColor="@color/gray"
                 android:textSize="16sp" />
 
@@ -157,7 +147,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:text="订单编号："
+            android:text="订单编号"
             android:textColor="@color/gray"
             android:textSize="16sp" />
 
@@ -182,7 +172,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:text="购买数量："
+            android:text="购买数量"
             android:textColor="@color/gray"
             android:textSize="16sp" />
 
@@ -208,7 +198,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:text="购买金额："
+            android:text="购买金额"
             android:textColor="@color/gray"
             android:textSize="16sp"  />
 
@@ -221,12 +211,61 @@
             android:textColor="@color/gray"
             android:textSize="16sp"  />
     </LinearLayout>
+        <!-- 优惠券 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="优惠券"
+                android:textColor="@color/gray"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/order_coupon_numId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="1"
+                android:textColor="@color/gray"
+                android:textSize="16sp"  />
+        </LinearLayout>
+        <!-- 实付金额 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="实付金额"
+                android:textColor="@color/gray"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/order_real_payId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="1"
+                android:textColor="@color/gray"
+                android:textSize="16sp"  />
+        </LinearLayout>
+
 
         <!-- 手机号码 -->
 
         <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="20dp"
         android:orientation="horizontal" >
 
         <TextView
@@ -250,5 +289,29 @@
             android:visibility="gone" />
     </LinearLayout>
     </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:gravity="center_vertical|right"
+        >
+        <Button
+            android:id="@+id/tv_refund"
+            android:layout_width="80dp"
+            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="17dp"
+            android:background="@drawable/btn_empty_bg"
+            android:text="申请退款"
+            android:textColor="@color/base_color_text_black"
+            android:textSize="12sp"
+            android:visibility="gone"
+            />
+        </LinearLayout>
 
 </LinearLayout>

@@ -47,9 +47,9 @@
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:layout_height="50dp"
-            android:background="@color/primary"
-            android:text="定   位"
-            android:textColor="@color/white"
+            android:background="@drawable/plotcontrol_btnbg"
+            android:hint="定   位"
+            android:textColorHint="@color/base_color_text_black"
             android:textSize="@dimen/button_text_size" />
   </LinearLayout>
     <!--查询-->

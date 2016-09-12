@@ -474,7 +474,7 @@ public interface RemoteApi {
 		public String header;//标题
 		public int Priority;//优先级
 		public boolean ForSal;//是否支持客户端支付
-		public int PromotionTypeID;
+		public int PromotionTypeID;//活动、劵
 	}
 	
 	/**订单状态*/

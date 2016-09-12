@@ -30,7 +30,9 @@ import com.wuxianyingke.property.remote.RemoteApi.User;
 import com.wuxianyingke.property.threads.GetUnusePromotionListThread;
 
 /**
-优惠券
+ *
+ * @author Liudongdong
+ * 优惠券列表
  *
  */
 public class CommitVoucherListActivity extends BaseActivity {
@@ -42,6 +44,7 @@ public class CommitVoucherListActivity extends BaseActivity {
 	/** 订单列表适配器 */
 	private GetOrderListAdapter mAdapter;
 	/** 订单列表线程用于获得订单数据 */
+	// private GetPromotionCodeThread mThread;
 	private GetUnusePromotionListThread mThread;
 	/** 用于展示数据 */
 	private ListView mListView;
@@ -51,96 +54,117 @@ public class CommitVoucherListActivity extends BaseActivity {
 	private TextView mTextview;
 	private int flags=5;
 	private ArrayList<OrderItem> mData = new ArrayList<OrderItem>();
-	private ArrayList<PromotionCode> promotionCode = new ArrayList<PromotionCode>();
+	private ArrayList<PromotionCode>promotionCode=new ArrayList<PromotionCode>();
+	// private long OrderSequenceNumber;
+	// /**券码*/
+	// private String Code="A2Q1V1Q7I5G9";
+	// /**券码id*/
+	// private long PromotionCodeID=152;
 	private Handler mHandler = new Handler() {
 		@Override
 		public void handleMessage(Message msg) {
 			switch (msg.what) {
-			case Constants.MSG_GET_CANYIN_LIST_FINISH:
-				Log.i("MyLog", "###我的优惠券列表---------------------》"
-						+ mThread.mOrders);
-				
-				mData.addAll(mThread.mOrders);
-				mAdapter = new GetOrderListAdapter(getApplicationContext(),
-						mData,flags);
-				mListView.setAdapter(mAdapter);
-				mAdapter.notifyDataSetChanged();
+				case Constants.MSG_GET_CANYIN_LIST_FINISH:
+					Log.i("MyLog", "###我的消费券列表---------------------》"
+							+ mThread.mOrders);
 
-				mListView.setOnItemClickListener(new OnItemClickListener() {
+					mData.addAll(mThread.mOrders);
+					mAdapter = new GetOrderListAdapter(getApplicationContext(),
+							mData,flags);
+					mListView.setAdapter(mAdapter);
+					mAdapter.notifyDataSetChanged();
 
-					@Override
-					public void onItemClick(AdapterView<?> arg0, View arg1,
-							int position, long arg3) {
+					mListView.setOnItemClickListener(new OnItemClickListener() {
 
-						Intent intent = new Intent(getApplicationContext(),
-								CommitVoucherContentActivity.class);
-						intent.putExtra(
-								"header",
-								mData.get(position).ThePromotion.header);
-						intent.putExtra("body",
-								mData.get(position).ThePromotion.body);
-						intent.putExtra(
-								"price",
-								mData.get(position).ThePromotion.Price);
+						@Override
+						public void onItemClick(AdapterView<?> arg0, View arg1,
+												int position, long arg3) {
+//						final long ordersequencenumber = mThread.mOrders
+//								.get(position).OrderSequenceNumber;
+//
+//						Thread GetPromotionCodeThread = new Thread() {
+//							@Override
+//							public void run() {
+//								RemoteApiImpl rai = new RemoteApiImpl();
+//								PromotionCodeArray pArray = rai
+//										.getPromotionCodeArray(
+//												CommitVoucherListActivity.this,
+//												ordersequencenumber);
+//								promotionCode=pArray.proArray;
+//
+//							};
+//						};
+//						GetPromotionCodeThread.start();
 
-						intent.putExtra("path",
-								mData.get(position).ThePromotion.path);
-						intent.putExtra("ordersequencenumber",mData
-								.get(position).OrderSequenceNumber);
-						intent.putExtra("OrderID", mData.get(position).OrderID);
+							Intent intent = new Intent(getApplicationContext(),
+									CommitVoucherContentActivity.class);
+							intent.putExtra(
+									"header",
+									mData.get(position).ThePromotion.header);
+							intent.putExtra("body",
+									mData.get(position).ThePromotion.body);
+							intent.putExtra(
+									"price",
+									mData.get(position).ThePromotion.Price);
 
-						startActivity(intent);
-					}
-				});
-				pageCount=mAdapter.getCount();
-				((AbsListView) mListView)
-						.setOnScrollListener(new OnScrollListener() {
-							boolean isBottom = false;// 表示每页数据已经加载完，一个标志位
-							
-							@Override
-							public void onScrollStateChanged(AbsListView view,
-									int scrollState) {
-								
-								if (isBottom
-										&& scrollState == OnScrollListener.SCROLL_STATE_IDLE
-										&& pageIndex <= pageCount) {
+							intent.putExtra("path",
+									mData.get(position).ThePromotion.path);
+							intent.putExtra("ordersequencenumber",mData
+									.get(position).OrderSequenceNumber);
+							intent.putExtra("OrderID", mData.get(position).OrderID);
 
-									Toast.makeText(
-											CommitVoucherListActivity.this,
-											"数据加载中，请稍后...", Toast.LENGTH_LONG)
-											.show();
-									isBottom = false;
-									pageIndex++;
-									User use = LocalStore.getUserInfo();
-									mThread = new GetUnusePromotionListThread(
-											CommitVoucherListActivity.this,
-											mHandler, use.userId, pageIndex);
-									mThread.start();
-								} else if (pageIndex > pageCount) {
-									Toast.makeText(
-											CommitVoucherListActivity.this,
-											"数据已经加载完毕....", Toast.LENGTH_LONG)
-											.show();
+							//startActivity(intent);
+						}
+					});
+					pageCount=mAdapter.getCount();
+					((AbsListView) mListView)
+							.setOnScrollListener(new OnScrollListener() {
+								boolean isBottom = false;// 表示每页数据已经加载完，一个标志位
+
+								@Override
+								public void onScrollStateChanged(AbsListView view,
+																 int scrollState) {
+
+									if (isBottom
+											&& scrollState == OnScrollListener.SCROLL_STATE_IDLE
+											&& pageIndex <= pageCount) {
+
+										Toast.makeText(
+												CommitVoucherListActivity.this,
+												"数据加载中，请稍后...", Toast.LENGTH_LONG)
+												.show();
+										isBottom = false;
+										pageIndex++;
+										User use = LocalStore.getUserInfo();
+										mThread = new GetUnusePromotionListThread(
+												CommitVoucherListActivity.this,
+												mHandler, use.userId, pageIndex);
+										mThread.start();
+									} else if (pageIndex > pageCount) {
+										Toast.makeText(
+												CommitVoucherListActivity.this,
+												"数据已经加载完毕....", Toast.LENGTH_LONG)
+												.show();
+									}
+
 								}
 
-							}
+								@Override
+								public void onScroll(AbsListView view,
+													 int firstVisibleItem, int visibleItemCount,
+													 int totalItemCount) {
+									if (firstVisibleItem + visibleItemCount == totalItemCount) {
+										isBottom = true;
 
-							@Override
-							public void onScroll(AbsListView view,
-									int firstVisibleItem, int visibleItemCount,
-									int totalItemCount) {
-								if (firstVisibleItem + visibleItemCount == totalItemCount) {
-									isBottom = true;
-
+									}
 								}
-							}
-						});
+							});
 
-				break;
-			case Constants.MSG_NETWORK_ERROR:
-				mListView.setVisibility(View.GONE);
-				mTextview.setVisibility(View.VISIBLE);
-				break;
+					break;
+				case Constants.MSG_NETWORK_ERROR:
+					mListView.setVisibility(View.GONE);
+					mTextview.setVisibility(View.VISIBLE);
+					break;
 			}
 			super.handleMessage(msg);
 		}
@@ -170,7 +194,6 @@ public class CommitVoucherListActivity extends BaseActivity {
 	}
 
 
-
 	private void initListener() {
 		topbar_left.setOnClickListener(new OnClickListener() {
 
@@ -192,11 +215,10 @@ public class CommitVoucherListActivity extends BaseActivity {
 
 	}
 
-
 	private void initViews() {
 		// 顶部导航
 		topbar_txt = (TextView) findViewById(R.id.topbar_txt);
-		topbar_txt.setText("优惠券");
+		topbar_txt.setText("我的消费券");
 		topbar_left = (Button) findViewById(R.id.topbar_left);
 		topbar_left.setVisibility(View.VISIBLE);
 		mTextview=(TextView) findViewById(R.id.empty_tv);

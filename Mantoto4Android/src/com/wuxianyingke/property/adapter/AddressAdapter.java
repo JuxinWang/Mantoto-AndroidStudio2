@@ -34,12 +34,9 @@ import com.wuxianyingke.property.threads.GetAddressListThread;
 import com.wuxianyingke.property.widget.FilpperListvew;
 
 public class AddressAdapter extends BaseAdapter {
-	private GetAddressListThread mThread = null;
 	private ArrayList<AddressItem> mList;
 	private Context mContext;
-	private static AddressAdapter mListAdapter;
-	private FilpperListvew listView;
-	private AddressActivity address;
+
 
 	public AddressAdapter(Context ctx, ArrayList<AddressItem> list) {
 		this.mContext = ctx;
